@@ -27,25 +27,30 @@ end
 
 # ls *.jpg | xargs -r -I FILE convert FILE -thumbnail 64x64 FILE_thumb.png
 
-BEER_LABEL_SIZES = [24,32,48,64]  # e.g. 24x24, 32x32, etc.
-BEER_LABEL_INPUT_DIR = 'originals'
-BEER_LABEL_OUTPUT_DIR = 'vendor/assets/images/labels'
+LABEL_SIZES = [24,32,48,64]  # e.g. 24x24, 32x32, etc.
+LABEL_INPUT_DIR = 'originals'
+LABEL_OUTPUT_DIR = 'vendor/assets/images/labels'
 
 
 
 desc 'beerdb-labels - build thumbs'
 task :build_thumbs  do
 
-  files = Dir[ "#{BEER_LABEL_INPUT_DIR}/*.jpg" ]
+  files = Dir[ "#{LABEL_INPUT_DIR}/**/*.{png,gif,jpg}" ]
 
   files.each do |filename|
-    basename = File.basename( filename, '.jpg' )
+    extname  = File.extname( filename )
+    basename = File.basename( filename, extname )   # NB: remove extname (that is, suffix e.g. .png,.jpg,.gif etc.)
 
-    puts "filename: #{filename}, basename: #{basename}"
+    puts "filename: #{filename}, basename: #{basename}, extname: #{extname}"
 
-    BEER_LABEL_SIZES.each do |size|
+    LABEL_SIZES.each do |size|
+      
+      ## make sure outputdir exits
+      FileUtils.mkpath( "#{LABEL_OUTPUT_DIR}/#{size}x#{size}" )  unless File.exists?( "#{LABEL_OUTPUT_DIR}/#{size}x#{size}" )
+
       # e.g. convert #{filename} -thumbnail 48x48 vendor/assets/images/labels/48x48/#{basename}.png"
-      cmd = "convert #{filename} -thumbnail #{size}x#{size} #{BEER_LABEL_OUTPUT_DIR}/#{size}x#{size}/#{basename}.png"
+      cmd = "convert #{filename} -thumbnail #{size}x#{size} #{LABEL_OUTPUT_DIR}/#{size}x#{size}/#{basename}.png"
       puts "  #{cmd}"
       system( cmd )
     end
@@ -63,15 +68,23 @@ task :build_manifest  do
 
   ## append all thumbnails (24x24,32x32,48x48,64x64)
 
-  files = Dir[ "#{BEER_LABEL_INPUT_DIR}/*.jpg" ]
+  files = Dir[ "#{LABEL_INPUT_DIR}/**/*.{png,gif,jpg}" ]
+  files = files.map do |filename|
+    # strip folders
+    # force extension  to .png
+
+    extname  = File.extname( filename )
+    basename = File.basename( filename, extname )   # NB: remove extname (that is, suffix e.g. .png,.jpg,.gif etc.)
+
+    puts "filename: #{filename}, basename: #{basename}, extname: #{extname}"
+    "#{basename}.png"
+  end
   files.sort!
 
-  BEER_LABEL_SIZES.each do |size|
-    files.each do |filename|
-       basename = File.basename( filename, '.jpg' )
 
-       # puts "filename: #{filename}, basename: #{basename}"
-       txt << "#{BEER_LABEL_OUTPUT_DIR}/#{size}x#{size}/#{basename}.png\n"
+  LABEL_SIZES.each do |size|
+    files.each do |filename|
+       txt << "#{LABEL_OUTPUT_DIR}/#{size}x#{size}/#{filename}\n"
     end
   end
 

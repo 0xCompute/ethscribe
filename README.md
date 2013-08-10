@@ -11,3 +11,13 @@ beerdb-labels gem - beer labels (24x24, 32x32, 48x48, 64x64) bundled for reuse w
 
 TBD
 
+
+
+## Dev Notes
+
+Use 
+
+    $ rake debug_gem > beerdb-labels.gemspec
+
+to update (auto-generate) gemspec.
+
