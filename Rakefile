@@ -10,7 +10,7 @@ Hoe.spec 'beerdb-labels' do
   self.summary = 'beerdb-labels gem - beer labels (24x24, 32x32, 48x48, 64x64) bundled for reuse w/ asset pipeline'
   self.description = summary
 
-  self.urls    = ['https://github.com/geraldb/beer.db.labels']
+  self.urls    = ['https://github.com/geraldb/beer.db.labels.ruby']
   
   self.author  = 'Gerald Bauer'
   self.email   = 'beerdb@googlegroups.com'
@@ -28,7 +28,10 @@ end
 # ls *.jpg | xargs -r -I FILE convert FILE -thumbnail 64x64 FILE_thumb.png
 
 LABEL_SIZES = [24,32,48,64]  # e.g. 24x24, 32x32, etc.
-LABEL_INPUT_DIR = 'originals'
+
+# NB: labels reside in its own repo! - clone as a sibling to this repo to make it work
+LABEL_INPUT_DIR = '../beer.db.labels'
+
 LABEL_OUTPUT_DIR = 'vendor/assets/images/labels'
 
 
