@@ -36,6 +36,46 @@ LABEL_OUTPUT_DIR = 'vendor/assets/images/labels'
 
 
 
+require 'hybook'
+
+
+desc 'debug build album'
+task :debug_album do
+  album = HyBook::Album.create_from_folder( LABEL_INPUT_DIR, title: 'beer.db.labels' )
+  pp album
+
+  puts HyBook.render_album( album, size: 24 )
+end
+
+
+desc 'beerdb-labels - build album pages'
+task :albums do
+
+  PAGES_DIR = './site'
+
+  album =  HyBook::Album.create_from_folder( LABEL_INPUT_DIR, title: 'beer.db.labels' ) 
+
+  ## build one album page per logo size (e.g. 24x24, 32x32 etc.)
+  LABEL_SIZES.each do |size|
+
+    TextUtils::Page.create( "#{PAGES_DIR}/#{size}.md", frontmatter: {
+                                                          layout: 'album',
+                                                          title: "beer.db.labels (#{size}x#{size})",
+                                                          permalink: "/#{size}.html" } ) do |page|
+        page.write HyBook.render_album( album,
+                                          title: "beer.db.labels (#{size}x#{size})",
+                                          size: size )
+    end # page
+  end # each LABEL_SIZES
+
+  puts 'Done.'
+end
+
+
+
+
+
+
 desc 'beerdb-labels - build thumbs'
 task :build_thumbs  do
 
