@@ -44,7 +44,9 @@ task :debug_album do
   album = HyBook::Album.create_from_folder( LABEL_INPUT_DIR, title: 'beer.db.labels' )
   pp album
 
-  puts HyBook.render_album( album, size: 24 )
+  puts HyBook.render_album( album,
+                               size: 24,
+                               assets_path: 'vendor/assets/images/labels' )
 end
 
 
@@ -64,13 +66,13 @@ task :albums do
                                                           permalink: "/#{size}.html" } ) do |page|
         page.write HyBook.render_album( album,
                                           title: "beer.db.labels (#{size}x#{size})",
-                                          size: size )
+                                          size: size,
+                                          assets_path: 'vendor/assets/images/labels' )
     end # page
   end # each LABEL_SIZES
 
   puts 'Done.'
 end
-
 
 
 
