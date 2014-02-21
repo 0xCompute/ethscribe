@@ -4,20 +4,20 @@ require './lib/beerdb/labels/version.rb'
 
 
 Hoe.spec 'beerdb-labels' do
-  
+
   self.version = BeerDb::Labels::VERSION
-  
+
   self.summary = 'beerdb-labels gem - beer labels (24x24, 32x32, 48x48, 64x64) bundled for reuse w/ asset pipeline'
   self.description = summary
 
-  self.urls    = ['https://github.com/geraldb/beer.db.labels.ruby']
-  
+  self.urls    = ['https://github.com/beerdblabels/beer.db.labels.ruby']
+
   self.author  = 'Gerald Bauer'
   self.email   = 'beerdb@googlegroups.com'
-    
+
   self.readme_file  = 'README.md'
   self.history_file = 'History.md'
-  
+
 end
 
 
