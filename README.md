@@ -9,7 +9,18 @@ beerdb-labels gem - beer labels (24x24, 32x32, 48x48, 64x64) bundled for reuse w
 
 ## Usage
 
-TBD
+### Rails Asset Pipline
+
+
+In Your Gemfile add:
+
+    gem 'beerdb-labels', '9.9.9',  :git => 'https://github.com/beerlabels/beer.db.labels.ruby.git' 
+
+And use it like:
+
+    image_tag( "labels/32x32/#{beer.key}.png" )   e.g.
+    image_tag( 'labels/32x32/murphysred.png' )
+
 
 
 ## Album Pages / Label Previews
