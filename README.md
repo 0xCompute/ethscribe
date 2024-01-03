@@ -48,12 +48,6 @@ id, type, attributes
 ...
 ```
 
-Bonus - All together now. Find the composite fam image of all 10000 in a 100×100 grid in [punks12px.png](punks12px.png) (~360k - 1200×1200px).
-
-![](punks12px.png)
-
-
-
 
 ### Popularity & Rarity by Types 
 
@@ -76,6 +70,13 @@ Bonus - All together now. Find the composite fam image of all 10000 in a 100×10
 | ![](i/male1@4x.png)  Male 1             | 1411  (14.11 %) |
 | ![](i/male3@4x.png) Male 3              | 1712  (17.12 %) |
 | ![](i/green@4x.png) Green               | 1712  (17.12 %) |
+
+
+### Bonus - All together now
+
+Find the composite fam image of all 10000 in a 100×100 grid in [punks12px.png](punks12px.png) (~360k - 1200×1200px).
+
+![](punks12px.png)
 
 
 
