@@ -17,40 +17,36 @@ STATS = Hash.new(0)
 def generate_punk( *values  )
    ## remove empty attibutes
   values = values.select { |value| !value.empty? }
-  ## normalize
-  values = values.map { |value| value.downcase.gsub( /[^a-z0-9]/, '' ) }
  
   punk_type       = values[0]
   attribute_names = values[1..-1]
-
-  gender = punk_type.index( 'female' ) ? 'f' : 'm'
         
   # change mid
   #  male   to (ethscribe) green 
   #  female to (ethscribe) green female
   punk_type = case punk_type
-              when 'male2'   then 'green'
-              when 'female2' then 'greenfemale'
+              when 'Male 2'   then 'Green'
+              when 'Female 2' then 'Green Female'
               else   punk_type
               end 
 
   # change smile  to gold
   # change frown  to demon or skeleton or bot or orc
-  if attribute_names.include?( 'smile' )
-     punk_type = 'gold'
+  if attribute_names.include?( 'Smile' )
+     punk_type = 'Gold'
   end  
   
-  specials = ['demon', 'skeleton', 'bot', 'orc']
+  specials = ['Demon', 'Skeleton', 'Bot', 'Orc']
 
-  if attribute_names.include?( 'frown' )
+  if attribute_names.include?( 'Frown' )
     punk_type = specials[ rand( specials.size ) ]
   end  
 
   ### more fun
   ##   turn every 10th male1 into blue
-  if punk_type == 'male1'
-    STATS['male1'] += 1  
-    punk_type ='blue'  if STATS['male1'] % 10 == 0 
+  if punk_type == 'Male 1'
+    STATS['Male 1'] += 1  
+    punk_type ='Blue'  if STATS['Male 1'] % 10 == 0 
   end
 
 
@@ -58,8 +54,8 @@ def generate_punk( *values  )
   ## attributes - rm frown
   attribute_names = attribute_names.select do |attribute_name|
                               case attribute_name
-                              when 'smile' then false
-                              when 'frown' then false
+                              when 'Smile' then false
+                              when 'Frown' then false
                               else true
                               end
                          end
@@ -67,8 +63,8 @@ def generate_punk( *values  )
 
   attribute_names = attribute_names.map do |attribute_name|
                                         case attribute_name
-                                        when 'smallshades'    then 'lasereyes gold'
-                                        when 'weldinggoggles' then 'lasereyes gold'
+                                        when 'Small Shades'    then 'Laser Eyes Gold'
+                                        when 'Welding Goggles' then 'Laser Eyes Gold'
                                         else attribute_name
                                         end
                                      end

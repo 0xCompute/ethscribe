@@ -18,16 +18,16 @@ Let's generate 10000 punks (12×12px) in a reference edition.
 
 Find all 10000 reference images one-by-one in 12×12px in [**/ethscribe**](ethscribe):
 
-![](ethscribe/punk000.png)
-![](ethscribe/punk001.png)
-![](ethscribe/punk002.png)
-![](ethscribe/punk003.png)
-![](ethscribe/punk004.png)
-![](ethscribe/punk005.png)
-![](ethscribe/punk006.png)
-![](ethscribe/punk007.png)
-![](ethscribe/punk008.png)
-![](ethscribe/punk009.png)
+![](ethscribe/punk0000.png)
+![](ethscribe/punk0001.png)
+![](ethscribe/punk0002.png)
+![](ethscribe/punk0003.png)
+![](ethscribe/punk0004.png)
+![](ethscribe/punk0005.png)
+![](ethscribe/punk0006.png)
+![](ethscribe/punk0007.png)
+![](ethscribe/punk0008.png)
+![](ethscribe/punk0009.png)
 ...
 
 
@@ -35,16 +35,16 @@ Find all meta data in the [punks12px.csv](punks12pxcsv) tabular dataset e.g.
 
 ```
 id, type, attributes
-0, greenfemale, earring / blondebob / greeneyeshadow
-1, gold, mohawk
-2, female3, wildhair
-3, male1, wildhair / pipe / nerdglasses
-4, green, goat / earring / wildhair / bigshades
-5, greenfemale, earring / halfshaved / purpleeyeshadow
-6, green, dorag
-7, greenfemale, spots / wildwhitehair / clowneyesblue
-8, male1, luxuriousbeard / messyhair
-9, green, bigbeard / policecap / clownnose
+0, Green Female, Earring / Blonde Bob / Green Eye Shadow
+1, Gold, Mohawk
+2, Female 3, Wild Hair
+3, Male 1, Wild Hair / Pipe / Nerd Glasses
+4, Green, Goat / Earring / Wild Hair / Big Shades
+5, Green Female, Earring / Half Shaved / Purple Eye Shadow
+6, Green, Do-rag
+7, Green Female, Spots / Wild White Hair / Clown Eyes Blue
+8, Male 1, Luxurious Beard / Messy Hair
+9, Green, Big Beard / Police Cap / Clown Nose
 ...
 ```
 
