@@ -51,6 +51,108 @@ end
 
 
 
+## patch
+patch  = []
+
+srand( 4242 )   ## make deterministic
+
+def reshuffle( values )
+    patch_males   = ['Red', 'Purple', 'Aqua']
+    patch_females = ['Blue Female', 'Red Female', 'Purple Female']
+    
+    patch_females_hair = ['Blonde Side', 'White Side', 
+                          'Pink Short', 
+                          'Messy Hair Green',
+                          'Messy Hair Blonde',
+                          'Pigtails Red',
+                          'Pigtails Blonde',
+                          'Half Shaved Purple',
+                          'Half Shaved Blonde',
+                        ]
+
+    patch_males_hair = ['Red Mohawk', 
+                        'Peak Spike', 
+                        'Mohawk Thin',
+                        'Messy Hair',
+                        'Purple Hair',
+                        'Shaved Head']
+
+    patch_males_head = ['Knitted Cap', 
+                        'Cap']
+
+    female = values[1].downcase.index('female') 
+
+    type = female ? patch_females[ rand( patch_females.size )] :
+                    patch_males[ rand( patch_males.size) ] 
+
+    attributes =  values[2]
+    if female
+      hair = patch_females_hair[ rand( patch_females_hair.size ) ]
+      attributes = attributes.sub( 'Tassle Hat', hair ) if attributes.index( 'Tassle Hat' )
+      attributes = attributes.sub( 'Pilot Helmet', hair ) if attributes.index( 'Pilot Helmet' )             
+    else
+      hair = patch_males_hair[ rand( patch_males_hair.size ) ]
+      attributes = attributes.sub( 'Mohawk Thin', hair )  if attributes.index( 'Mohawk Thin' )
+      attributes = attributes.sub( 'Peak Spike', hair )  if attributes.index( 'Peak Spike' )
+      attributes = attributes.sub( 'Shaved Head', hair )  if attributes.index( 'Shaved Head' )
+
+      head = patch_males_head[ rand( patch_males_head.size) ]
+      attributes = attributes.sub( 'Knitted Cap', head )  if attributes.index( 'Knitted Cap' )
+    end
+
+    [values[0], type, attributes]
+end
+
+## track uniques reshuffled too!!
+reshuffled = {}
+
+uniques.each do |hash, nums|
+    if nums.size > 1
+        puts "!! #{hash}"
+        pp nums
+        ## skip first num
+        nums[1..-1].each_with_index do |num,i|
+            values = nil
+            loop do 
+                values = reshuffle( meta[num].values )
+              
+              key = (values[1]+values[2]).downcase.gsub( /[^a-z0-9-]+/, '' )
+              key = key.sub( 'earring', '' )
+              key = key.sub( 'purplelipstick', '' )
+
+              reshuffled[ key ] ||= []
+              reshuffled[ key ] << num
+              if reshuffled[ key ].size == 1
+                 break
+              else
+                 puts "!! duplicates; reshuffle:"
+                 pp reshuffled[ key ]
+                 pp values
+              end
+            end
+              
+            patch << [num.to_s, values[1], values[2]]       
+        end
+    end
+end
+
+
+## sort by id
+patch = patch.sort { |l,r| l[0].to_i(10) <=> r[0].to_i(10) }
+
+headers = ['id', 'type', 'attributes']
+File.open( "./patch.csv", "w:utf-8" ) do |f|
+   f.write( headers.join( ', '))
+   f.write( "\n")
+   patch.each do |values|
+     f.write( values.join( ', ' ))
+     f.write( "\n" )
+   end
+end
+
+
+
+
 
 
 buf = ''
@@ -60,7 +162,7 @@ count = Hash.new(0)
 uniques.each do |hash, nums|
     if nums.size > 1
         puts "!! #{hash}"
-        buf << "### hash #{hash}\n"
+        buf << "### (#{nums.size}) hash #{hash}\n"
 
         pp nums
         nums.each do |num|
