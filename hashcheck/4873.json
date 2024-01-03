@@ -1,0 +1,30 @@
+{
+  "result": true,
+  "ethscription": {
+    "transaction_hash": "0xa52350a63e99c6fe862eb3f9f1a24f323e9ae821a776111814ffa86b36fe6502",
+    "block_number": 18921144,
+    "current_owner": "0x992854ea7d6826c968a16b95e875e775d0d65dc2",
+    "creator": "0x992854ea7d6826c968a16b95e875e775d0d65dc2",
+    "creation_timestamp": "2024-01-02T17:20:35.000Z",
+    "ethscription_number": 4049373,
+    "previous_owner": null,
+    "mimetype": "image/png",
+    "content_taken_down_at": null,
+    "transaction_index": 131,
+    "initial_owner": "0x992854ea7d6826c968a16b95e875e775d0d65dc2",
+    "event_log_index": null,
+    "esip6": false,
+    "media_type": "image",
+    "mime_subtype": "png",
+    "gas_price": "28723414863.0",
+    "gas_used": "24488.0",
+    "transaction_fee": "703378983165144.0",
+    "value": "0.0",
+    "block_confirmations": 6729,
+    "min_block_confirmations": 6729,
+    "overall_order_number_as_int": "18921144000131000000",
+    "image_removed_by_request_of_rights_holder": false,
+    "content_uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMAgMAAAArG7R0AAAACVBMVEUAAAAAAADbsYAS2S/IAAAAA3RSTlMA//9EUNYhAAAANUlEQVR4nGNiYGBgYpjJwMR01oGJwcWBiXn1BSYWFgYmRsEPTD9sgGJANsNrIBZtYGL4xgAAwDYIuwjW+nwAAAAASUVORK5CYII=",
+    "sha": "bd35b77f59e706ffa5d1797ab6021d49526141058bd3918b7dc31fbf57bbed26"
+  }
+}

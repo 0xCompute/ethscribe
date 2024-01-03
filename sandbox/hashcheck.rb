@@ -7,7 +7,8 @@ net = Ethscribe::Api.mainnet
 
 missing = []
 
-(0..999).each do |i|
+# stopped at 6052
+(0..9999).each do |i|
     num = '%04d' % i
     path = "./hashcheck/#{num}.json"
 
