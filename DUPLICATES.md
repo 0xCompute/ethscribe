@@ -1,13 +1,11 @@
 # Duplicates
 
-
 - 180 Duplicates (2x)
 - 13 (x2 26)  Triplicates (3x)
-- 5  (x3 15) Quadruplicates (4x)
+- 5 (x3 15) Quadruplicates (4x)
 
 
-= 277 (180 + 26x2 + 15x3)
-
+= 221 (180 + 13x2 + 5x3)
 
 
 ### hash b4c9d956acb4086e25a85ea7319b9673b3043441f59ac062aa650e2afa690195

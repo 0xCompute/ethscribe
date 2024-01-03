@@ -12,6 +12,7 @@ recs = []
 
 
 uniques = {}
+duplicate_count = 0
 
 (0..9999).each do |i|
     num = '%04d' % i
@@ -21,20 +22,38 @@ uniques = {}
     print  i   if i % 1000 == 0
 
     hash = data['ethscription']['sha']
+ 
     uniques[ hash ] ||= [] 
     uniques[ hash ] << i
 
-    recs << [data['ethscription']['ethscription_number'].to_s, i.to_s]
+    if uniques[ hash ].size == 1
+       recs << [data['ethscription']['ethscription_number'].to_s, i.to_s]
+    else
+       puts "!! skipping duplicate"
+       duplicate_count += 1
+    end
 end
 print "\n"
 
 
+## sorty buy inscribe num
+recs = recs.sort {|l,r|  l[0].to_i(10) <=> r[0].to_i(10) }
 
-buf =<<TXT
-# Duplicates
+headers = ['num', 'ref']
+File.open( "./mint.csv", "w:utf-8" ) do |f|
+   f.write( headers.join( ', '))
+   f.write( "\n")
+   recs.each do |values|
+     f.write( values.join( ', ' ))
+     f.write( "\n" )
+   end
+end
 
 
-TXT
+
+
+
+buf = ''
 
 count = Hash.new(0)
 
@@ -62,10 +81,27 @@ uniques.each do |hash, nums|
 end
 
 
-write_text( "./DUPLICATES.md", buf )
+header =<<TXT
+# Duplicates
 
+- #{count[2]} Duplicates (2x)
+- #{count[3]} (x2 #{count[3]*2})  Triplicates (3x)
+- #{count[4]} (x3 #{count[4]*3}) Quadruplicates (4x)
+
+
+= #{count[2]+count[3]*2+count[4]*3} (#{count[2]} + #{count[3]}x2 + #{count[4]}x3)
+
+
+TXT
+
+write_text( "./DUPLICATES.md", header + buf )
+
+
+puts header
 
 pp count
+
+puts "  duplicate count (double check): #{duplicate_count}"
 
 puts "bye"
 
