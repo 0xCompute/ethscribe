@@ -31,7 +31,7 @@ Find all 10000 reference images one-by-one in 12×12px in [**/ethscribe**](ethsc
 ...
 
 
-Find all meta data in the [punks12px.csv](punks12pxcsv) tabular dataset e.g.
+Find all meta data in the [punks12px.csv](punks12px.csv) tabular dataset e.g.
 
 ```
 id, type, attributes
