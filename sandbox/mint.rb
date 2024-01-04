@@ -13,6 +13,7 @@ recs = []
 
 uniques = {}
 duplicate_count = 0
+duplicates = []
 
 (0..9999).each do |i|
     num = '%04d' % i
@@ -31,12 +32,14 @@ duplicate_count = 0
     else
        puts "!! skipping duplicate"
        duplicate_count += 1
+
+       duplicates << meta[i].values
     end
 end
 print "\n"
 
 
-## sorty buy inscribe num
+## sort buy inscribe num
 recs = recs.sort {|l,r|  l[0].to_i(10) <=> r[0].to_i(10) }
 
 headers = ['num', 'ref']
@@ -50,6 +53,21 @@ File.open( "./mint.csv", "w:utf-8" ) do |f|
 end
 
 
+## write out duplicates to replace
+
+headers = ['id', 'type', 'attributes']
+File.open( "./tmp/punks12px.duplicates.csv", "w:utf-8" ) do |f|
+   f.write( headers.join( ', '))
+   f.write( "\n")
+   duplicates.each do |values|
+     f.write( values.join( ', ' ))
+     f.write( "\n" )
+   end
+end
+
+
+
+__END__
 
 ## patch
 patch  = []
