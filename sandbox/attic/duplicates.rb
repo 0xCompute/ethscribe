@@ -10,6 +10,7 @@ puts "#{recs.size} punk(s)"  #=> 221 punk(s)
 ##
 # move ethscribe image to duplicates/ethscribe
 
+=begin
 recs.each do |rec|
     id = rec['id'].to_i(10)
 
@@ -33,7 +34,22 @@ recs.each do |rec|
         FileUtils.mv( path, outpath )
     end
 end
+=end
 
+
+##
+# move patch/replacement images
+recs.each do |rec|
+  id = rec['id'].to_i(10)
+
+  num = '%04d' % id
+  path = "./patch/punk#{num}.png"
+
+  puts "==> #{id}..."
+  outpath = "./ethscribe/punk#{num}.png"
+
+  FileUtils.cp( path, outpath )
+end
 
 
 puts "bye"
