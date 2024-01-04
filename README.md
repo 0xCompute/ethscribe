@@ -53,23 +53,30 @@ id, type, attributes
 
 |  Type                                   | Pop             |
 |-----------------------------------------|----------------:|
-| ![](i/alien@4x.png) Alien               |    9  ( 0.09 %) |
-| ![](i/ape@4x.png) Ape                   |   24  ( 0.24 %) |
-| ![](i/bot@4x.png) Bot                   |   60  ( 0.60 %) |
-| ![](i/demon@4x.png) Demon               |   62  ( 0.62 %) |
-| ![](i/skeleton@4x.png) Skeleton         |   69  ( 0.69 %) | 
-| ![](i/orc@4x.png) Orc                   |   70  ( 0.70 %) |
-| ![](i/zombie@4x.png)  Zombie            |   80  ( 0.80 %) |
-| ![](i/blue@4x.png)  Blue                |  156  ( 1.56 %) |
-| ![](i/gold@4x.png) Gold                 |  238  ( 2.38 %) |
-| ![](i/female4@4x.png) Female 4          |  420  ( 4.20 %) |
-| ![](i/male4@4x.png) Male 4              |  557  ( 5.57 %) |
-| ![](i/female1@4x.png) Female 1          | 1101  (11.01 %) |
-| ![](i/female3@4x.png) Female 3          | 1145  (11.45 %) |
-| ![](i/green_female@4x.png) Green Female | 1174  (11.74 %) |
-| ![](i/male1@4x.png)  Male 1             | 1411  (14.11 %) |
-| ![](i/male3@4x.png) Male 3              | 1712  (17.12 %) |
-| ![](i/green@4x.png) Green               | 1712  (17.12 %) |
+| ![](i/alien@4x.png) Alien               |    9  ( 0.09 %)  |
+| ![](i/red@4x.png) Red                   |   15  ( 0.15 %)  |
+| ![](i/aqua@4x.png) Aqua                 |   17  ( 0.17 %)  |
+| ![](i/purple@4x.png) Purple             |   19  ( 0.19 %)  |
+| ![](i/ape@4x.png) Ape                   |   24  ( 0.24 %)  |
+| ![](i/purple_female@4x.png) Purple Female |   53  ( 0.53 %)  |
+| ![](i/bot@4x.png) Bot                   |   57  ( 0.57 %)  |
+| ![](i/red_female@4x.png) Red Female     |   58  ( 0.58 %)  |
+| ![](i/demon@4x.png) Demon               |   59  ( 0.59 %)  |
+| ![](i/blue_female@4x.png) Blue Female   |   59  ( 0.59 %)  |
+| ![](i/skeleton@4x.png) Skeleton         |   69  ( 0.69 %)  |
+| ![](i/orc@4x.png) Orc                   |   69  ( 0.69 %)  |
+| ![](i/zombie@4x.png) Zombie             |   80  ( 0.80 %)  |
+| ![](i/blue@4x.png) Blue                 |  156  ( 1.56 %)  |
+| ![](i/gold@4x.png) Gold                 |  198  ( 1.98 %)  |
+| ![](i/female4@4x.png) Female 4          |  418  ( 4.18 %)  |
+| ![](i/male4@4x.png) Male 4              |  557  ( 5.57 %)  |
+| ![](i/green_female@4x.png) Green Female | 1033  (10.33 %)  |
+| ![](i/female1@4x.png) Female 1          | 1089  (10.89 %)  |
+| ![](i/female3@4x.png) Female 3          | 1130  (11.30 %)  |
+| ![](i/male1@4x.png) Male 1              | 1410  (14.10 %)  |
+| ![](i/green@4x.png) Green               | 1710  (17.10 %)  |
+| ![](i/male3@4x.png) Male 3              | 1711  (17.11 %)  |
+
 
 
 ### Bonus - All together now

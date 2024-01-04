@@ -31,39 +31,27 @@ puts "bye"
 __END__
 
 
-{"Green Female"=>1174,
- "Gold"=>238,
- "Female 3"=>1145,
- "Male 1"=>1411,
- "Green"=>1712,
- "Female 1"=>1101,
- "Male 4"=>557,
- "Bot"=>60,
- "Male 3"=>1712,
- "Skeleton"=>69,
- "Blue"=>156,
- "Zombie"=>80,
- "Female 4"=>420,
- "Demon"=>62,
- "Ape"=>24,
- "Orc"=>70,
- "Alien"=>9}
-
- Alien        |    9  ( 0.09 %)
- Ape          |   24  ( 0.24 %)
- Bot          |   60  ( 0.60 %)
- Demon        |   62  ( 0.62 %)
- Skeleton     |   69  ( 0.69 %)
- Orc          |   70  ( 0.70 %)
- Zombie       |   80  ( 0.80 %)
- Blue         |  156  ( 1.56 %)
- Gold         |  238  ( 2.38 %)
- Female 4     |  420  ( 4.20 %)
- Male 4       |  557  ( 5.57 %)
- Female 1     | 1101  (11.01 %)
- Female 3     | 1145  (11.45 %)
- Green Female | 1174  (11.74 %)
- Male 1       | 1411  (14.11 %)
- Male 3       | 1712  (17.12 %)
- Green        | 1712  (17.12 %)
+Alien        |    9  ( 0.09 %)
+Red          |   15  ( 0.15 %)
+Aqua         |   17  ( 0.17 %)
+Purple       |   19  ( 0.19 %)
+Ape          |   24  ( 0.24 %)
+Purple Female |   53  ( 0.53 %)
+Bot          |   57  ( 0.57 %)
+Red Female   |   58  ( 0.58 %)
+Demon        |   59  ( 0.59 %)
+Blue Female  |   59  ( 0.59 %)
+Skeleton     |   69  ( 0.69 %)
+Orc          |   69  ( 0.69 %)
+Zombie       |   80  ( 0.80 %)
+Blue         |  156  ( 1.56 %)
+Gold         |  198  ( 1.98 %)
+Female 4     |  418  ( 4.18 %)
+Male 4       |  557  ( 5.57 %)
+Green Female | 1033  (10.33 %)
+Female 1     | 1089  (10.89 %)
+Female 3     | 1130  (11.30 %)
+Male 1       | 1410  (14.10 %)
+Green        | 1710  (17.10 %)
+Male 3       | 1711  (17.11 %)
 
