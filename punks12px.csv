@@ -209,7 +209,7 @@ id, type, attributes
 207, Male 3, Peak Spike / Pipe / Eye Patch
 208, Green, Earring / Shaved Head / 3D Glasses
 209, Female 1, Hot Lipstick / Stringy Hair
-210, Green Female, Earring / Straight Hair Dark
+210, Purple Female, Earring / Straight Hair Dark
 211, Male 1, Goat / Mohawk Thin
 212, Female 1, Hot Lipstick / Crazy Hair
 213, Green Female, Crazy Hair
@@ -344,7 +344,7 @@ id, type, attributes
 342, Female 3, Bandana / Regular Shades
 343, Male 3, Shadow Beard / Police Cap
 344, Male 1, Beanie
-345, Green Female, Earring / Tassle Hat
+345, Blue Female, Earring / Messy Hair Blonde
 346, Green, Purple Hair
 347, Green, Knitted Cap / Horned Rim Glasses
 348, Female 3, Rosy Cheeks / Messy Hair / Nerd Glasses
@@ -356,7 +356,7 @@ id, type, attributes
 354, Male 4, Police Cap / Cigarette
 355, Female 4, Black Lipstick / Gold Chain / Wild White Hair / Green Eye Shadow
 356, Male 3, Stringy Hair
-357, Female 1, Earring / Tassle Hat
+357, Blue Female, Earring / Blonde Side
 358, Male 3, Luxurious Beard / Mohawk / Laser Eyes Gold
 359, Female 4, Hot Lipstick / Messy Hair
 360, Green, Normal Beard Black / Bandana
@@ -485,7 +485,7 @@ id, type, attributes
 483, Male 3, Mustache / Stringy Hair
 484, Male 1, Knitted Cap / Nerd Glasses
 485, Green, Big Beard / Earring / Headband / 3D Glasses
-486, Green Female, Hot Lipstick / Straight Hair Blonde
+486, Blue Female, Hot Lipstick / Straight Hair Blonde
 487, Male 1, Crazy Hair
 488, Green Female, Mole / Earring / Half Shaved
 489, Male 1, Do-rag / Classic Shades
@@ -506,7 +506,7 @@ id, type, attributes
 504, Female 1, Black Lipstick / Earring / Pilot Helmet
 505, Green, Normal Beard / Headband
 506, Green, Messy Hair / Big Shades
-507, Green Female, Hot Lipstick / Dark Hair
+507, Red Female, Hot Lipstick / Dark Hair
 508, Green, Earring / Knitted Cap
 509, Female 1, Wild Hair / Regular Shades
 510, Green, 
@@ -528,7 +528,7 @@ id, type, attributes
 526, Male 4, Mole / Vampire Hair
 527, Female 3, Hot Lipstick / Straight Hair Blonde / Regular Shades
 528, Female 3, Mohawk
-529, Green Female, Headband
+529, Red Female, Headband
 530, Green Female, Blonde Bob
 531, Male 1, Earring / Knitted Cap
 532, Female 1, Mohawk Dark
@@ -666,7 +666,7 @@ id, type, attributes
 664, Female 3, Tassle Hat / Horned Rim Glasses
 665, Green, Luxurious Beard / Clown Hair Green / Regular Shades
 666, Female 3, Purple Lipstick / Messy Hair
-667, Green Female, Hot Lipstick / Mohawk Dark
+667, Red Female, Hot Lipstick / Mohawk Dark
 668, Green Female, Mohawk Dark / Clown Eyes Green
 669, Green Female, Black Lipstick / Mohawk Thin
 670, Female 1, Mohawk Thin
@@ -766,7 +766,7 @@ id, type, attributes
 764, Green, Headband / Horned Rim Glasses
 765, Green, Goat / Hoodie / Clown Eyes Green
 766, Green Female, Black Lipstick / Crazy Hair / Horned Rim Glasses
-767, Female 3, Black Lipstick / Earring / Tassle Hat
+767, Red Female, Black Lipstick / Earring / Pink Short
 768, Male 3, Muttonchops / Earring / Cap Forward / Big Shades
 769, Green, Silver Chain / Fedora
 770, Male 1, Luxurious Beard / Crazy Hair / Regular Shades
@@ -874,7 +874,7 @@ id, type, attributes
 872, Green Female, Hot Lipstick / Wild Blonde / Vape
 873, Male 3, Mustache / Mohawk Dark / Eye Patch
 874, Female 1, Earring / Wild Hair / Cigarette / Regular Shades
-875, Green Female, Earring / Wild White Hair / Regular Shades
+875, Blue Female, Earring / Wild White Hair / Regular Shades
 876, Female 1, Mole / Tassle Hat
 877, Male 3, Luxurious Beard / Earring / Hoodie
 878, Green, Muttonchops / Cap Forward
@@ -1048,8 +1048,8 @@ id, type, attributes
 1046, Green Female, Hot Lipstick / Earring / Wild Blonde
 1047, Male 3, Mohawk Dark
 1048, Green, Front Beard Dark / Stringy Hair
-1049, Gold, Crazy Hair
-1050, Green Female, 
+1049, Purple, Crazy Hair
+1050, Red Female, 
 1051, Female 3, Hot Lipstick / Mole / Tassle Hat
 1052, Female 1, Purple Lipstick / Earring / Bandana
 1053, Male 4, Big Beard / Cap Forward / Nerd Glasses
@@ -1069,7 +1069,7 @@ id, type, attributes
 1067, Male 4, Front Beard / Mohawk / Horned Rim Glasses
 1068, Green, Big Beard / Mohawk
 1069, Male 3, Cap
-1070, Green Female, Earring / Pink With Hat
+1070, Red Female, Earring / Pink With Hat
 1071, Female 1, Purple Lipstick / Stringy Hair
 1072, Male 3, Chinstrap / Stringy Hair / Eye Mask
 1073, Green Female, Purple Lipstick / Mohawk Dark / Clown Eyes Blue
@@ -1114,7 +1114,7 @@ id, type, attributes
 1112, Male 4, Bandana / Regular Shades
 1113, Male 4, Front Beard Dark / Knitted Cap / Cigarette / Eye Patch
 1114, Green, Chinstrap / Purple Hair
-1115, Green Female, Hot Lipstick / Wild White Hair
+1115, Purple Female, Hot Lipstick / Wild White Hair
 1116, Male 1, Shadow Beard / Cowboy Hat
 1117, Green, Shadow Beard / Mohawk Thin / Horned Rim Glasses
 1118, Gold, Cap Forward
@@ -1210,7 +1210,7 @@ id, type, attributes
 1208, Male 4, Bandana
 1209, Female 4, Mohawk Dark / VR
 1210, Female 3, Purple Lipstick / Wild Blonde / Cigarette / Purple Eye Shadow
-1211, Gold, Cap Forward
+1211, Aqua, Cap Forward
 1212, Female 1, Wild Hair / Green Eye Shadow
 1213, Male 3, Luxurious Beard / Mohawk
 1214, Green Female, Purple Lipstick / Half Shaved / Eye Patch
@@ -1231,7 +1231,7 @@ id, type, attributes
 1229, Male 3, Goat / Clown Hair Green
 1230, Male 1, Frumpy Hair / VR
 1231, Male 3, Front Beard / Bandana / Cigarette / Eye Mask
-1232, Green Female, Pigtails
+1232, Purple Female, Pigtails
 1233, Female 3, Hot Lipstick / Knitted Cap / Vape
 1234, Female 3, Stringy Hair / Blue Eye Shadow
 1235, Male 1, Goat / Knitted Cap / Cigarette / Horned Rim Glasses
@@ -1437,7 +1437,7 @@ id, type, attributes
 1435, Green, Muttonchops / Earring / Headband / Clown Eyes Green
 1436, Male 1, Mole / Mohawk
 1437, Male 3, Goat / Wild Hair
-1438, Green Female, Pilot Helmet
+1438, Purple Female, Messy Hair Green
 1439, Green, Muttonchops / Earring / Stringy Hair / 3D Glasses
 1440, Green, Earring / Headband
 1441, Female 1, Purple Lipstick / Earring / Frumpy Hair / Eye Mask
@@ -1627,7 +1627,7 @@ id, type, attributes
 1625, Male 1, Mole / Cap
 1626, Green Female, Purple Lipstick / Messy Hair / 3D Glasses
 1627, Green, Normal Beard Black / Police Cap
-1628, Green Female, Hot Lipstick / Stringy Hair
+1628, Red Female, Hot Lipstick / Stringy Hair
 1629, Female 3, Black Lipstick / Pink With Hat
 1630, Male 4, Shadow Beard / Top Hat
 1631, Male 4, Police Cap / Laser Eyes Gold
@@ -1644,14 +1644,14 @@ id, type, attributes
 1642, Male 3, Mole / Normal Beard / Mohawk Dark
 1643, Gold, Frumpy Hair
 1644, Male 1, Big Beard / Hoodie
-1645, Female 1, Purple Lipstick / Earring / Tassle Hat
+1645, Blue Female, Purple Lipstick / Earring / Half Shaved Purple
 1646, Male 3, Luxurious Beard / Earring / Knitted Cap
 1647, Male 1, Purple Hair / Eye Mask
 1648, Green Female, Purple Lipstick / Mohawk Thin / Clown Eyes Green
 1649, Male 4, Shadow Beard / Earring / Crazy Hair / Regular Shades
 1650, Male 3, Normal Beard Black / Messy Hair / Clown Nose
 1651, Green, Muttonchops / Beanie / Big Shades
-1652, Female 1, Hot Lipstick / Earring / Tassle Hat / Cigarette
+1652, Purple Female, Hot Lipstick / Earring / Blonde Side / Cigarette
 1653, Green, Normal Beard / Earring / Hoodie / Clown Eyes Green
 1654, Green Female, Mohawk / Medical Mask
 1655, Skeleton, Peak Spike / Clown Eyes Green
@@ -1724,7 +1724,7 @@ id, type, attributes
 1722, Male 3, Normal Beard Black / Fedora / Nerd Glasses
 1723, Male 3, Cap / Nerd Glasses
 1724, Female 1, Mohawk / Clown Eyes Blue
-1725, Green Female, Hot Lipstick / Messy Hair
+1725, Red Female, Hot Lipstick / Messy Hair
 1726, Female 3, Hot Lipstick / Mole / Clown Hair Green / Vape
 1727, Green, Stringy Hair / 3D Glasses
 1728, Demon, Mohawk Thin / Laser Eyes Gold
@@ -1757,8 +1757,8 @@ id, type, attributes
 1755, Green, Gold Chain / Crazy Hair / VR
 1756, Male 4, Front Beard / Knitted Cap / Cigarette
 1757, Male 1, Shaved Head / Nerd Glasses
-1758, Green Female, Earring / Mohawk / Regular Shades
-1759, Green Female, Hot Lipstick / Pilot Helmet
+1758, Purple Female, Earring / Mohawk / Regular Shades
+1759, Purple Female, Hot Lipstick / Half Shaved Purple
 1760, Green, Cap / Cigarette / Nerd Glasses
 1761, Female 1, Half Shaved / Blue Eye Shadow
 1762, Green, Rosy Cheeks / Earring / Frumpy Hair / Laser Eyes Gold
@@ -1870,7 +1870,7 @@ id, type, attributes
 1868, Female 3, Headband / Blue Eye Shadow
 1869, Female 1, Wild Blonde / VR
 1870, Female 1, Knitted Cap / Medical Mask
-1871, Gold, Headband
+1871, Red, Headband
 1872, Green Female, Half Shaved / Regular Shades
 1873, Female 4, Straight Hair Dark / Cigarette
 1874, Green, Muttonchops / Earring / Headband
@@ -1887,7 +1887,7 @@ id, type, attributes
 1885, Female 1, Tassle Hat / Green Eye Shadow
 1886, Zombie, Shadow Beard / Messy Hair
 1887, Male 1, Police Cap / Nerd Glasses
-1888, Green Female, Earring / Wild Blonde
+1888, Red Female, Earring / Wild Blonde
 1889, Green, Luxurious Beard / Peak Spike
 1890, Blue, Front Beard Dark / Earring / Knitted Cap / Cigarette
 1891, Green, Police Cap / Cigarette
@@ -1917,8 +1917,8 @@ id, type, attributes
 1915, Female 3, Black Lipstick / Mohawk
 1916, Green, Normal Beard Black / Do-rag
 1917, Green Female, Frumpy Hair / Purple Eye Shadow
-1918, Green Female, Hot Lipstick / Earring / Blonde Bob
-1919, Demon, Peak Spike
+1918, Purple Female, Hot Lipstick / Earring / Blonde Bob
+1919, Purple, Peak Spike
 1920, Male 4, Goat / Earring / Mohawk Dark
 1921, Male 3, Mole / Earring / Cap / Clown Eyes Green
 1922, Male 4, Knitted Cap / VR
@@ -1930,7 +1930,7 @@ id, type, attributes
 1928, Male 1, Crazy Hair / Clown Eyes Green
 1929, Male 1, Front Beard Dark / Police Cap
 1930, Female 1, Crazy Hair / Clown Eyes Blue
-1931, Female 1, Earring / Pilot Helmet
+1931, Blue Female, Earring / Pigtails Red
 1932, Green, Muttonchops / Earring / Wild Hair / Big Shades
 1933, Green, Knitted Cap / Eye Patch
 1934, Green, Normal Beard / Fedora / Laser Eyes Gold
@@ -1957,12 +1957,12 @@ id, type, attributes
 1955, Green, Chinstrap / Earring / Knitted Cap / Medical Mask
 1956, Female 1, Wild Blonde / Clown Eyes Blue
 1957, Male 1, Mohawk Dark / 3D Glasses
-1958, Green Female, Hot Lipstick / Blonde Short
+1958, Blue Female, Hot Lipstick / Blonde Short
 1959, Green Female, Wild Blonde / Big Shades
 1960, Male 3, Earring / Cap
 1961, Male 1, Front Beard Dark / Earring / Crazy Hair
 1962, Female 3, Earring / Headband / Green Eye Shadow
-1963, Green Female, Medical Mask
+1963, Purple Female, Medical Mask
 1964, Male 1, Big Beard
 1965, Male 1, Earring / Mohawk / Clown Eyes Green
 1966, Male 4, Normal Beard Black / Stringy Hair
@@ -2194,7 +2194,7 @@ id, type, attributes
 2192, Skeleton, Earring / Knitted Cap / Horned Rim Glasses
 2193, Green, Stringy Hair / Eye Patch
 2194, Male 1, Front Beard Dark / Earring / Stringy Hair
-2195, Green Female, Hot Lipstick / Wild Hair
+2195, Red Female, Hot Lipstick / Wild Hair
 2196, Female 3, Hot Lipstick / Choker / Mohawk Thin
 2197, Female 1, Black Lipstick / Mole / Stringy Hair / Purple Eye Shadow
 2198, Green Female, Hot Lipstick / Crazy Hair / Pipe
@@ -2205,7 +2205,7 @@ id, type, attributes
 2203, Female 3, Earring / Clown Hair Green / Green Eye Shadow
 2204, Female 1, 
 2205, Green, Mole / Knitted Cap
-2206, Green Female, Dark Hair / Horned Rim Glasses
+2206, Blue Female, Dark Hair / Horned Rim Glasses
 2207, Green Female, Bandana / Purple Eye Shadow
 2208, Female 1, Hot Lipstick / Rosy Cheeks / Red Mohawk / Blue Eye Shadow
 2209, Male 3, Mole / Shadow Beard / Earring / Mohawk Dark / Clown Eyes Green
@@ -2241,7 +2241,7 @@ id, type, attributes
 2239, Male 4, Gold Chain / Big Beard / Mohawk
 2240, Female 4, Half Shaved / Big Shades
 2241, Green, Mustache / Stringy Hair / Eye Patch
-2242, Gold, Knitted Cap
+2242, Purple, Cap
 2243, Ape, Bandana / Nerd Glasses
 2244, Female 1, Pink With Hat / Nerd Glasses
 2245, Male 3, Normal Beard / Cap Forward
@@ -2260,7 +2260,7 @@ id, type, attributes
 2258, Male 3, Mustache / Hoodie
 2259, Green, Normal Beard Black / Wild Hair
 2260, Male 3, Normal Beard / Crazy Hair / Eye Patch
-2261, Gold, Shaved Head
+2261, Red, Peak Spike
 2262, Female 4, Blonde Bob / Clown Eyes Blue
 2263, Male 1, Mole / Cap Forward
 2264, Male 3, Shadow Beard / Earring / Purple Hair / Regular Shades
@@ -2465,7 +2465,7 @@ id, type, attributes
 2463, Male 1, Mole / Big Beard / Cap
 2464, Green, Luxurious Beard / Earring / Hoodie
 2465, Green, Luxurious Beard / Earring / Knitted Cap
-2466, Gold, Wild Hair
+2466, Purple, Wild Hair
 2467, Green Female, Hot Lipstick / Tassle Hat / Clown Eyes Blue
 2468, Male 1, Muttonchops / Knitted Cap / VR
 2469, Gold, Earring / Bandana / Horned Rim Glasses
@@ -2548,7 +2548,7 @@ id, type, attributes
 2546, Female 1, Black Lipstick / Earring / Straight Hair Dark
 2547, Male 3, Earring / Bandana
 2548, Gold, Cap Forward / Nerd Glasses
-2549, Female 3, Black Lipstick / Earring / Pilot Helmet
+2549, Blue Female, Black Lipstick / Earring / Pigtails Blonde
 2550, Green, Goat / Hoodie
 2551, Female 3, Purple Lipstick / Red Mohawk / Medical Mask
 2552, Female 3, Earring / Headband / Purple Eye Shadow
@@ -2692,7 +2692,7 @@ id, type, attributes
 2690, Female 1, Pink With Hat / Blue Eye Shadow
 2691, Gold, Shadow Beard / Knitted Cap
 2692, Green Female, Purple Lipstick / Wild Hair / Pipe / Eye Patch
-2693, Gold, Frumpy Hair
+2693, Aqua, Frumpy Hair
 2694, Male 1, Front Beard Dark / Earring / Wild Hair
 2695, Green, Normal Beard Black / Do-rag / Laser Eyes Gold
 2696, Female 1, Purple Lipstick / Mohawk / Regular Shades
@@ -2774,7 +2774,7 @@ id, type, attributes
 2772, Female 3, Black Lipstick / Earring / Bandana / Clown Eyes Green
 2773, Male 3, Mohawk / Medical Mask
 2774, Male 3, Earring / Stringy Hair / Nerd Glasses
-2775, Green Female, Earring / Headband
+2775, Purple Female, Earring / Headband
 2776, Green, Spots / Earring / Mohawk
 2777, Blue, Normal Beard / Shaved Head / Laser Eyes Gold
 2778, Male 1, Front Beard / Messy Hair / Big Shades
@@ -2843,7 +2843,7 @@ id, type, attributes
 2841, Female 1, Spots / Straight Hair Blonde
 2842, Green, Normal Beard / Earring / Mohawk Thin
 2843, Female 1, Black Lipstick / Earring / Bandana / Vape / Eye Mask
-2844, Green Female, Black Lipstick / Pilot Helmet
+2844, Red Female, Black Lipstick / Pigtails Red
 2845, Male 3, Earring / Clown Hair Green / Eye Patch
 2846, Green Female, Black Lipstick / Messy Hair
 2847, Male 3, Earring / Knitted Cap / Nerd Glasses
@@ -2899,7 +2899,7 @@ id, type, attributes
 2897, Male 1, Headband / Big Shades
 2898, Male 1, Earring / Do-rag / Big Shades
 2899, Male 1, Front Beard Dark / Purple Hair
-2900, Female 3, Earring / Pilot Helmet
+2900, Red Female, Earring / Half Shaved Purple
 2901, Male 4, Normal Beard Black / Cap / Cigarette / Regular Shades
 2902, Male 4, Shadow Beard / Do-rag
 2903, Female 4, Hot Lipstick / Earring / Mohawk Dark / Classic Shades
@@ -2908,7 +2908,7 @@ id, type, attributes
 2906, Male 3, Front Beard Dark / Knitted Cap / Eye Patch
 2907, Male 1, Goat / Messy Hair / Eye Patch
 2908, Male 1, Wild Hair / Eye Mask
-2909, Female 1, Black Lipstick / Pilot Helmet
+2909, Blue Female, Black Lipstick / Pink Short
 2910, Green, Top Hat / Nerd Glasses
 2911, Green, Front Beard Dark / Frumpy Hair / Medical Mask
 2912, Male 1, Shadow Beard / Shaved Head
@@ -2950,7 +2950,7 @@ id, type, attributes
 2948, Male 3, Wild Hair / Eye Mask
 2949, Male 3, Earring / Mohawk Thin / Medical Mask / Eye Patch
 2950, Female 1, Headband
-2951, Gold, Police Cap
+2951, Aqua, Police Cap
 2952, Green, Earring / Mohawk Dark / Big Shades
 2953, Green, Normal Beard Black / Wild Hair / Vape / Regular Shades
 2954, Female 4, Wild Blonde / VR
@@ -2983,7 +2983,7 @@ id, type, attributes
 2981, Green Female, Mohawk Thin / Laser Eyes Gold
 2982, Male 3, Knitted Cap / Medical Mask
 2983, Male 1, Earring / Shaved Head / Regular Shades
-2984, Green Female, Hot Lipstick / Red Mohawk / Regular Shades
+2984, Blue Female, Hot Lipstick / Red Mohawk / Regular Shades
 2985, Male 1, Buck Teeth / Fedora
 2986, Male 3, Handlebars / Earring / Messy Hair
 2987, Male 1, Mustache / Shaved Head
@@ -3029,7 +3029,7 @@ id, type, attributes
 3027, Male 3, Front Beard Dark / Bandana / 3D Glasses
 3028, Male 4, Shadow Beard / Bandana / Eye Patch
 3029, Female 3, Earring / Red Mohawk / Blue Eye Shadow
-3030, Green Female, Stringy Hair / Clown Eyes Blue
+3030, Purple Female, Stringy Hair / Clown Eyes Blue
 3031, Green Female, Tassle Hat / Nerd Glasses
 3032, Female 3, Rosy Cheeks / Wild Blonde
 3033, Green, Shadow Beard / Do-rag / Cigarette
@@ -3117,7 +3117,7 @@ id, type, attributes
 3115, Green, Goat / Mohawk Thin / Regular Shades
 3116, Female 3, Hot Lipstick / Blonde Bob / Clown Eyes Blue
 3117, Bot, Crazy Hair / Regular Shades
-3118, Green Female, Hot Lipstick / Knitted Cap
+3118, Purple Female, Hot Lipstick / Knitted Cap
 3119, Female 1, Black Lipstick / Wild White Hair / Horned Rim Glasses
 3120, Green, Front Beard Dark / Cap Forward / Medical Mask
 3121, Male 3, Stringy Hair / Eye Mask
@@ -3276,7 +3276,7 @@ id, type, attributes
 3274, Male 3, Do-rag / Clown Eyes Blue
 3275, Green Female, Silver Chain / Stringy Hair / Clown Eyes Blue
 3276, Green, Peak Spike / Clown Nose
-3277, Female 3, Earring / Tassle Hat / Regular Shades
+3277, Blue Female, Earring / Pigtails Red / Regular Shades
 3278, Green Female, Earring / Cap
 3279, Green, Mohawk / Laser Eyes Gold
 3280, Green, Earring / Purple Hair / Medical Mask
@@ -3287,7 +3287,7 @@ id, type, attributes
 3285, Male 4, Front Beard Dark / Knitted Cap
 3286, Male 1, Normal Beard / Messy Hair
 3287, Female 3, Classic Shades
-3288, Gold, Mohawk Dark
+3288, Purple, Mohawk Dark
 3289, Female 1, Hot Lipstick / Mole / Earring / Wild Blonde
 3290, Female 1, Hot Lipstick / Earring / Red Mohawk
 3291, Male 3, Normal Beard / Cap / Big Shades
@@ -3332,7 +3332,7 @@ id, type, attributes
 3330, Skeleton, Shadow Beard / Fedora / Regular Shades
 3331, Male 3, Earring / Headband / Cigarette / Eye Patch
 3332, Female 3, Red Mohawk / Clown Eyes Green
-3333, Female 1, Earring / Tassle Hat / Clown Eyes Green
+3333, Red Female, Earring / Messy Hair Green / Clown Eyes Green
 3334, Green Female, Dark Hair / Green Eye Shadow
 3335, Male 1, Luxurious Beard / Purple Hair
 3336, Green Female, Hot Lipstick / Messy Hair / Purple Eye Shadow
@@ -3464,7 +3464,7 @@ id, type, attributes
 3462, Male 3, Earring / Cigarette
 3463, Orc, Fedora / Vape
 3464, Female 3, Hot Lipstick / Straight Hair / Big Shades
-3465, Green Female, Hot Lipstick / Straight Hair / Big Shades
+3465, Blue Female, Hot Lipstick / Straight Hair / Big Shades
 3466, Male 3, Hoodie / VR
 3467, Male 3, Shadow Beard / Headband / Big Shades
 3468, Female 3, Black Lipstick / Wild White Hair / Cigarette / 3D Glasses
@@ -3480,16 +3480,16 @@ id, type, attributes
 3478, Blue, Mohawk Thin / Big Shades
 3479, Female 1, Pink With Hat / Classic Shades
 3480, Female 1, Half Shaved / Pipe
-3481, Green Female, Hot Lipstick / Dark Hair / Clown Eyes Blue
+3481, Red Female, Hot Lipstick / Dark Hair / Clown Eyes Blue
 3482, Male 1, Handlebars / Earring / Headband
 3483, Female 1, Blonde Bob / Pipe
 3484, Green, Goat / Earring / Knitted Cap / Cigarette
 3485, Male 1, Goat / Cap
 3486, Green Female, Hot Lipstick / Cap / Horned Rim Glasses
-3487, Green Female, Hot Lipstick / Bandana
+3487, Purple Female, Hot Lipstick / Bandana
 3488, Green Female, Earring / Red Mohawk / Big Shades
 3489, Zombie, Stringy Hair / Eye Patch
-3490, Green Female, Hot Lipstick / Earring / Wild White Hair / Blue Eye Shadow
+3490, Red Female, Hot Lipstick / Earring / Wild White Hair / Blue Eye Shadow
 3491, Male 3, Mole / Mustache / Earring / Crazy Hair / Cigarette
 3492, Green Female, Mole / Wild Hair
 3493, Zombie, Shadow Beard / Peak Spike
@@ -3509,7 +3509,7 @@ id, type, attributes
 3507, Male 1, Handlebars / Do-rag / 3D Glasses
 3508, Male 3, Goat / Frumpy Hair / Cigarette / Clown Eyes Green
 3509, Male 1, Shadow Beard / Mohawk / Classic Shades
-3510, Green Female, Hot Lipstick / Frumpy Hair
+3510, Purple Female, Hot Lipstick / Frumpy Hair
 3511, Female 3, Black Lipstick / Pink With Hat / VR
 3512, Green Female, Mohawk Dark / Cigarette
 3513, Green Female, Mohawk / Big Shades
@@ -3525,7 +3525,7 @@ id, type, attributes
 3523, Green, Big Beard / Headband / Nerd Glasses
 3524, Male 4, Mohawk / Pipe
 3525, Female 3, Wild White Hair / Nerd Glasses
-3526, Green Female, Hot Lipstick / Earring / Cap
+3526, Purple Female, Hot Lipstick / Earring / Cap
 3527, Female 1, Black Lipstick / Mohawk Dark
 3528, Female 4, Hot Lipstick / Wild Hair
 3529, Female 1, Earring / Clown Hair Green
@@ -3559,7 +3559,7 @@ id, type, attributes
 3557, Green Female, Black Lipstick / Messy Hair / Eye Patch
 3558, Female 1, Hot Lipstick / Rosy Cheeks / Frumpy Hair / Cigarette
 3559, Male 4, Peak Spike / Nerd Glasses
-3560, Green Female, Blonde Short / Clown Eyes Blue
+3560, Purple Female, Blonde Short / Clown Eyes Blue
 3561, Male 1, Front Beard / Earring / Cap Forward
 3562, Male 3, Normal Beard / Mohawk Thin / Clown Eyes Blue
 3563, Male 1, Stringy Hair / Cigarette / VR
@@ -3593,7 +3593,7 @@ id, type, attributes
 3591, Male 3, Handlebars / Mohawk Thin / Laser Eyes Gold
 3592, Female 1, Black Lipstick / Wild White Hair / Classic Shades
 3593, Female 1, Purple Lipstick / Mohawk / Clown Eyes Green
-3594, Green Female, Hot Lipstick / Wild Blonde
+3594, Purple Female, Hot Lipstick / Wild Blonde
 3595, Green Female, Purple Lipstick / Blonde Bob / Cigarette
 3596, Orc, Do-rag
 3597, Green, Normal Beard Black / Crazy Hair
@@ -3677,7 +3677,7 @@ id, type, attributes
 3675, Female 3, Hot Lipstick / Cap / Nerd Glasses
 3676, Male 1, Shadow Beard / Messy Hair / Laser Eyes Gold
 3677, Gold, Handlebars / Headband / 3D Glasses
-3678, Female 3, Purple Lipstick / Earring / Tassle Hat
+3678, Purple Female, Purple Lipstick / Earring / Messy Hair Blonde
 3679, Male 3, Purple Hair / Horned Rim Glasses
 3680, Male 1, Silver Chain / Bandana / Horned Rim Glasses
 3681, Male 3, Mole / Earring / Headband / Regular Shades
@@ -3790,7 +3790,7 @@ id, type, attributes
 3788, Female 1, Black Lipstick / Bandana
 3789, Female 1, Purple Lipstick / Earring / Mohawk
 3790, Blue, Vampire Hair / Cigarette
-3791, Green Female, Mole / Earring / Pilot Helmet
+3791, Blue Female, Mole / Earring / Pigtails Red
 3792, Green, Mohawk Dark / Vape / Regular Shades
 3793, Female 1, Black Lipstick / Blonde Bob / Cigarette
 3794, Male 1, Chinstrap / Earring / Stringy Hair
@@ -3821,7 +3821,7 @@ id, type, attributes
 3819, Male 3, Earring / Crazy Hair / Horned Rim Glasses
 3820, Male 3, Normal Beard / Earring / Mohawk / Nerd Glasses
 3821, Green Female, Black Lipstick / Earring / Dark Hair / Eye Patch
-3822, Gold, Headband
+3822, Purple, Headband
 3823, Female 1, Hot Lipstick / Half Shaved
 3824, Green Female, Choker / Bandana / Horned Rim Glasses
 3825, Male 3, Do-rag / Cigarette / Big Shades
@@ -3840,7 +3840,7 @@ id, type, attributes
 3838, Green, Muttonchops / Headband / VR
 3839, Male 4, Front Beard Dark / Earring / Crazy Hair / Eye Mask
 3840, Male 3, Handlebars / Earring / Mohawk Dark
-3841, Green Female, Earring / Orange Side
+3841, Red Female, Earring / Orange Side
 3842, Female 4, Bandana / Regular Shades
 3843, Male 4, Front Beard Dark / Cap / Cigarette / Regular Shades
 3844, Male 3, Handlebars / Fedora
@@ -3866,7 +3866,7 @@ id, type, attributes
 3864, Female 1, Crazy Hair / Horned Rim Glasses
 3865, Male 1, Buck Teeth / Knitted Cap / Nerd Glasses
 3866, Green, Cap / VR
-3867, Green Female, Hot Lipstick / Tassle Hat
+3867, Purple Female, Hot Lipstick / White Side
 3868, Male 1, Stringy Hair / Cigarette
 3869, Male 3, Shadow Beard / Peak Spike / Vape / Eye Mask
 3870, Female 1, Purple Lipstick / Straight Hair Blonde / Blue Eye Shadow
@@ -3888,7 +3888,7 @@ id, type, attributes
 3886, Green, Silver Chain / Mohawk Thin
 3887, Male 1, Chinstrap / Top Hat
 3888, Green, Handlebars / Messy Hair / Big Shades / Clown Nose
-3889, Gold, Police Cap
+3889, Purple, Police Cap
 3890, Male 1, Chinstrap / Stringy Hair / Horned Rim Glasses
 3891, Green Female, Hot Lipstick / Mole / Blonde Bob
 3892, Male 3, Luxurious Beard / Shaved Head / Eye Patch
@@ -3950,7 +3950,7 @@ id, type, attributes
 3948, Female 4, Purple Lipstick / Straight Hair Dark
 3949, Female 3, Black Lipstick / Half Shaved / Purple Eye Shadow
 3950, Female 1, Hot Lipstick / Earring / Crazy Hair / Clown Eyes Blue
-3951, Green Female, Earring / Mohawk Thin / Purple Eye Shadow
+3951, Blue Female, Earring / Mohawk Thin / Purple Eye Shadow
 3952, Green, Handlebars / Messy Hair / Cigarette
 3953, Male 4, Goat / Wild Hair / Pipe
 3954, Female 3, Black Lipstick / Half Shaved / Clown Eyes Green
@@ -3969,12 +3969,12 @@ id, type, attributes
 3967, Male 1, Rosy Cheeks / Vampire Hair
 3968, Green, Shadow Beard / Earring / Stringy Hair / Clown Eyes Blue
 3969, Green Female, Hot Lipstick / Mohawk Thin / Cigarette
-3970, Green Female, Earring / Tassle Hat / Clown Eyes Blue
+3970, Purple Female, Earring / Pink Short / Clown Eyes Blue
 3971, Male 3, Front Beard / Earring / Knitted Cap
 3972, Male 3, Chinstrap / Stringy Hair
 3973, Green, Muttonchops / Purple Hair / Laser Eyes Gold
 3974, Female 1, Rosy Cheeks / Earring / Mohawk / Purple Eye Shadow
-3975, Green Female, Hot Lipstick / Earring / Tassle Hat
+3975, Red Female, Hot Lipstick / Earring / Blonde Side
 3976, Female 1, Hot Lipstick / Earring / Straight Hair Dark / Horned Rim Glasses
 3977, Male 4, Earring / Mohawk Dark / Cigarette / VR
 3978, Gold, Mole / Wild Hair
@@ -3983,7 +3983,7 @@ id, type, attributes
 3981, Female 1, Red Mohawk / Green Eye Shadow / Clown Nose
 3982, Gold, Knitted Cap / Laser Eyes Gold
 3983, Green, Hoodie / Nerd Glasses
-3984, Female 3, Tassle Hat / Green Eye Shadow
+3984, Purple Female, Pigtails Blonde / Green Eye Shadow
 3985, Female 1, Purple Lipstick / Earring / Mohawk / Eye Patch
 3986, Female 1, Black Lipstick / Mole / Mohawk Dark / Classic Shades
 3987, Green, Mohawk Dark / Eye Mask
@@ -4029,7 +4029,7 @@ id, type, attributes
 4027, Green, Mole / Messy Hair / Pipe
 4028, Female 3, Purple Lipstick / Wild Hair / Green Eye Shadow
 4029, Male 1, Big Beard / Top Hat
-4030, Green Female, Hot Lipstick / Earring / Wild Hair / Cigarette
+4030, Purple Female, Hot Lipstick / Earring / Wild Hair / Cigarette
 4031, Green, Luxurious Beard / Frumpy Hair / Regular Shades
 4032, Female 4, Purple Lipstick / Blonde Short / Green Eye Shadow
 4033, Male 3, Shadow Beard / Earring / Shaved Head / VR
@@ -4043,7 +4043,7 @@ id, type, attributes
 4041, Green, Top Hat / Laser Eyes Gold
 4042, Green Female, Hot Lipstick / Mohawk / Cigarette
 4043, Female 3, Hot Lipstick / Wild Blonde / Classic Shades
-4044, Green Female, Hot Lipstick / Tassle Hat / Green Eye Shadow
+4044, Purple Female, Hot Lipstick / Half Shaved Purple / Green Eye Shadow
 4045, Green, Fedora / Big Shades
 4046, Green Female, Purple Lipstick / Mole / Stringy Hair
 4047, Skeleton, Earring / Hoodie
@@ -4064,7 +4064,7 @@ id, type, attributes
 4062, Male 4, Hoodie / Laser Eyes Gold
 4063, Male 3, Cap Forward / Classic Shades
 4064, Blue, Chinstrap / Stringy Hair
-4065, Green Female, Hot Lipstick / Earring / Half Shaved / Cigarette
+4065, Blue Female, Hot Lipstick / Earring / Half Shaved / Cigarette
 4066, Green, Knitted Cap / VR
 4067, Female 3, Earring / Bandana / Cigarette / Horned Rim Glasses
 4068, Orc, Mustache / Earring / Mohawk
@@ -4105,7 +4105,7 @@ id, type, attributes
 4103, Female 1, Mole / Wild White Hair
 4104, Male 3, Front Beard Dark / Mohawk Dark / Cigarette
 4105, Female 1, Hot Lipstick / Spots / Mohawk Thin
-4106, Green Female, Earring / Tassle Hat / Blue Eye Shadow
+4106, Blue Female, Earring / Blonde Side / Blue Eye Shadow
 4107, Female 3, Red Mohawk / Cigarette / Clown Eyes Green
 4108, Male 1, Earring / Messy Hair / Laser Eyes Gold
 4109, Male 4, Normal Beard Black / Purple Hair
@@ -4116,10 +4116,10 @@ id, type, attributes
 4114, Male 4, Normal Beard / Cap Forward
 4115, Male 3, Cap Forward / Laser Eyes Gold
 4116, Female 3, Hot Lipstick / Bandana / Nerd Glasses
-4117, Green Female, Hot Lipstick / Stringy Hair / Clown Eyes Green
+4117, Purple Female, Hot Lipstick / Stringy Hair / Clown Eyes Green
 4118, Female 3, Purple Lipstick / Half Shaved
 4119, Male 3, Shaved Head / Vape / Regular Shades
-4120, Green Female, Hot Lipstick / Mohawk Thin
+4120, Red Female, Hot Lipstick / Mohawk Thin
 4121, Green, Spots / Silver Chain / Chinstrap / Earring / Mohawk / Cigarette
 4122, Green Female, Purple Lipstick / Mole / Earring / Headband / Green Eye Shadow
 4123, Green, Chinstrap / Headband
@@ -4189,11 +4189,11 @@ id, type, attributes
 4187, Male 1, Crazy Hair / Laser Eyes Gold
 4188, Female 3, Dark Hair / Nerd Glasses
 4189, Blue, Knitted Cap / Horned Rim Glasses
-4190, Green Female, Hot Lipstick / Earring / Half Shaved
+4190, Red Female, Hot Lipstick / Earring / Half Shaved
 4191, Female 1, Hot Lipstick / Mohawk / Pipe / Nerd Glasses
 4192, Male 1, Rosy Cheeks / Goat / Earring / Shaved Head
 4193, Male 1, Normal Beard Black / Frumpy Hair
-4194, Green Female, Hot Lipstick / Stringy Hair / Clown Nose
+4194, Red Female, Hot Lipstick / Stringy Hair / Clown Nose
 4195, Female 1, Mole / Dark Hair
 4196, Female 1, Purple Lipstick / Clown Hair Green
 4197, Green, Normal Beard / Do-rag
@@ -4248,7 +4248,7 @@ id, type, attributes
 4246, Male 3, Silver Chain / Hoodie / Laser Eyes Gold
 4247, Green Female, Hot Lipstick / Headband / Blue Eye Shadow
 4248, Male 3, Goat / Stringy Hair
-4249, Green Female, Hot Lipstick / Earring / Messy Hair
+4249, Purple Female, Hot Lipstick / Earring / Messy Hair
 4250, Female 1, Purple Lipstick / Wild Hair / Laser Eyes Gold
 4251, Blue, Mustache / Earring / Top Hat / VR
 4252, Male 1, Goat / Shaved Head / Eye Patch
@@ -4285,7 +4285,7 @@ id, type, attributes
 4283, Male 3, Shadow Beard / Earring / Cap / 3D Glasses
 4284, Male 3, Muttonchops / Knitted Cap / Medical Mask
 4285, Male 3, Normal Beard / Earring / Cap / VR
-4286, Green Female, Hot Lipstick / Earring / Straight Hair Blonde / Green Eye Shadow
+4286, Purple Female, Hot Lipstick / Earring / Straight Hair Blonde / Green Eye Shadow
 4287, Male 3, Do-rag / Horned Rim Glasses
 4288, Green Female, Rosy Cheeks / Wild White Hair
 4289, Gold, Cap Forward / Eye Mask
@@ -4343,7 +4343,7 @@ id, type, attributes
 4341, Male 1, Normal Beard / Frumpy Hair / Big Shades
 4342, Male 3, Peak Spike / Medical Mask
 4343, Green Female, Purple Lipstick / Straight Hair Dark / Cigarette
-4344, Green Female, Hot Lipstick / Frumpy Hair / Clown Eyes Green
+4344, Purple Female, Hot Lipstick / Frumpy Hair / Clown Eyes Green
 4345, Female 3, Blonde Short / Big Shades
 4346, Green Female, Purple Lipstick / Pink With Hat / Purple Eye Shadow
 4347, Green Female, Pink With Hat / Nerd Glasses
@@ -4364,7 +4364,7 @@ id, type, attributes
 4362, Green Female, Blonde Bob / Horned Rim Glasses
 4363, Male 1, Normal Beard Black / Vampire Hair / Eye Patch
 4364, Female 3, Hot Lipstick / Earring / Crazy Hair / Blue Eye Shadow
-4365, Green Female, Hot Lipstick / Cap
+4365, Red Female, Hot Lipstick / Cap
 4366, Green Female, Red Mohawk / Blue Eye Shadow
 4367, Female 3, Tassle Hat / Pipe
 4368, Green Female, Black Lipstick / Earring / Headband / Regular Shades
@@ -4464,7 +4464,7 @@ id, type, attributes
 4462, Male 4, Front Beard / Do-rag / Cigarette / Big Shades
 4463, Male 1, Mohawk / Pipe
 4464, Ape, Do-rag / Vape / Eye Mask
-4465, Green Female, Hot Lipstick / Earring / Wild Hair / Blue Eye Shadow
+4465, Blue Female, Hot Lipstick / Earring / Wild Hair / Blue Eye Shadow
 4466, Green, Do-rag / Cigarette
 4467, Female 1, Earring / Dark Hair / Regular Shades
 4468, Green Female, Earring / Orange Side / Nerd Glasses
@@ -4511,7 +4511,7 @@ id, type, attributes
 4509, Male 3, Normal Beard Black / Cap
 4510, Green, Normal Beard Black / Earring / Mohawk Dark / Eye Patch
 4511, Male 4, Mustache / Do-rag
-4512, Green Female, Hot Lipstick / Bandana / Clown Eyes Green
+4512, Red Female, Hot Lipstick / Bandana / Clown Eyes Green
 4513, Zombie, Luxurious Beard / Earring / Beanie
 4514, Female 1, Hot Lipstick / Cap
 4515, Female 3, Clown Hair Green / Clown Eyes Blue
@@ -4547,7 +4547,7 @@ id, type, attributes
 4545, Female 1, Hot Lipstick / Wild White Hair / Purple Eye Shadow
 4546, Female 3, Mole / Earring / Stringy Hair
 4547, Female 3, Hot Lipstick / Earring / Bandana
-4548, Green Female, Hot Lipstick / Red Mohawk
+4548, Blue Female, Hot Lipstick / Red Mohawk
 4549, Male 4, Clown Hair Green / VR
 4550, Male 3, Mustache / Earring / Headband / Big Shades
 4551, Green, Goat / Hoodie / VR
@@ -4611,7 +4611,7 @@ id, type, attributes
 4609, Green, Headband / Nerd Glasses
 4610, Male 3, Earring / Stringy Hair / Eye Mask
 4611, Male 1, Cowboy Hat / Medical Mask / Big Shades
-4612, Female 1, Purple Lipstick / Earring / Pilot Helmet
+4612, Red Female, Purple Lipstick / Earring / Messy Hair Green
 4613, Male 4, Frumpy Hair / Regular Shades
 4614, Green, Earring / Do-rag / Nerd Glasses
 4615, Female 1, Purple Lipstick / Half Shaved / Regular Shades
@@ -4620,7 +4620,7 @@ id, type, attributes
 4618, Male 3, Earring / Do-rag / Classic Shades
 4619, Female 4, Orange Side
 4620, Male 3, Mole / Muttonchops / Cap Forward / Big Shades
-4621, Green Female, Tassle Hat / Green Eye Shadow
+4621, Red Female, Blonde Side / Green Eye Shadow
 4622, Female 3, Purple Lipstick / Messy Hair / Regular Shades
 4623, Male 3, Goat / Mohawk / Nerd Glasses
 4624, Green Female, Black Lipstick / Cap
@@ -4642,7 +4642,7 @@ id, type, attributes
 4640, Demon, Top Hat / Nerd Glasses
 4641, Female 3, Wild Blonde / Cigarette / Purple Eye Shadow
 4642, Green, Mole / Muttonchops / Fedora / Horned Rim Glasses
-4643, Green Female, Hot Lipstick / Mohawk / Green Eye Shadow
+4643, Purple Female, Hot Lipstick / Mohawk / Green Eye Shadow
 4644, Male 1, Gold Chain / Big Beard / Bandana
 4645, Green, Frumpy Hair / Classic Shades
 4646, Blue, Earring / Police Cap / Laser Eyes Gold
@@ -4693,7 +4693,7 @@ id, type, attributes
 4691, Male 3, Mole / Frumpy Hair / Eye Patch
 4692, Male 3, Mohawk / Pipe
 4693, Green Female, Wild Hair / Eye Patch
-4694, Gold, Do-rag
+4694, Aqua, Do-rag
 4695, Male 1, Normal Beard / Crazy Hair
 4696, Female 3, Earring / Cap / Big Shades
 4697, Gold, Luxurious Beard / Headband
@@ -4721,7 +4721,7 @@ id, type, attributes
 4719, Green Female, Purple Lipstick / Straight Hair Blonde / Pipe
 4720, Male 3, Mole / Shaved Head
 4721, Female 3, Hot Lipstick / Stringy Hair / Cigarette
-4722, Green Female, Hot Lipstick / Straight Hair
+4722, Blue Female, Hot Lipstick / Straight Hair
 4723, Green, Normal Beard Black / Shaved Head / Medical Mask / Classic Shades
 4724, Green, Spots / Earring / Hoodie
 4725, Male 1, Big Beard / Earring / Shaved Head
@@ -4755,7 +4755,7 @@ id, type, attributes
 4753, Green, Knitted Cap / Cigarette / Big Shades
 4754, Male 4, Chinstrap / Vampire Hair
 4755, Blue, Normal Beard / Earring / Messy Hair
-4756, Green Female, Hot Lipstick / Straight Hair Dark / Clown Eyes Blue
+4756, Blue Female, Hot Lipstick / Straight Hair Dark / Clown Eyes Blue
 4757, Male 3, Mole / Hoodie / Pipe
 4758, Green, Normal Beard / Earring / Mohawk Dark
 4759, Green, Handlebars / Purple Hair / Big Shades
@@ -4780,14 +4780,14 @@ id, type, attributes
 4778, Green Female, Earring / Bandana / Clown Eyes Blue
 4779, Green Female, Crazy Hair / Eye Mask
 4780, Male 1, Cowboy Hat / VR
-4781, Demon, Mohawk Thin
+4781, Aqua, Mohawk Thin
 4782, Female 1, Wild Hair / Clown Nose
 4783, Green, Luxurious Beard / Bandana / Horned Rim Glasses
 4784, Green Female, Earring / Straight Hair / Eye Patch
 4785, Male 1, Rosy Cheeks / Luxurious Beard / Mohawk Dark / Medical Mask
 4786, Green, Buck Teeth / Clown Hair Green
 4787, Female 3, Black Lipstick / Straight Hair / Cigarette
-4788, Female 1, Hot Lipstick / Earring / Pilot Helmet
+4788, Blue Female, Hot Lipstick / Earring / Pink Short
 4789, Green, Mohawk Dark / Clown Eyes Blue
 4790, Male 3, Mustache / Crazy Hair / Cigarette / Big Shades
 4791, Male 1, Shadow Beard / Wild Hair / Clown Eyes Blue
@@ -4812,7 +4812,7 @@ id, type, attributes
 4810, Green, Shadow Beard / Shaved Head
 4811, Male 1, Shaved Head / Big Shades
 4812, Male 3, Buck Teeth / Messy Hair / Nerd Glasses
-4813, Green Female, Hot Lipstick / Earring / Mohawk Thin
+4813, Blue Female, Hot Lipstick / Earring / Mohawk Thin
 4814, Female 1, Earring / Crazy Hair / Green Eye Shadow
 4815, Female 1, Earring / Messy Hair / Blue Eye Shadow
 4816, Green, Goat / Cap Forward / Pipe
@@ -4841,7 +4841,7 @@ id, type, attributes
 4839, Green Female, Purple Lipstick / Red Mohawk / Cigarette / Blue Eye Shadow
 4840, Male 1, Shadow Beard / Wild Hair
 4841, Male 1, Mole / Do-rag
-4842, Gold, Earring / Mohawk Thin
+4842, Purple, Earring / Red Mohawk
 4843, Green, Goat / Frumpy Hair
 4844, Male 1, Headband / Laser Eyes Gold
 4845, Green, Normal Beard / Do-rag / Horned Rim Glasses
@@ -4894,7 +4894,7 @@ id, type, attributes
 4892, Male 4, Cap Forward / Laser Eyes Gold
 4893, Female 1, Wild Blonde / Regular Shades
 4894, Green, Shadow Beard / Wild Hair / Vape / Regular Shades
-4895, Green Female, Wild White Hair / Clown Eyes Blue
+4895, Blue Female, Wild White Hair / Clown Eyes Blue
 4896, Male 3, Frumpy Hair / Eye Patch
 4897, Male 3, Front Beard Dark / Do-rag / VR
 4898, Green Female, Mole / Earring / Tassle Hat / Blue Eye Shadow
@@ -4995,8 +4995,8 @@ id, type, attributes
 4993, Male 1, Normal Beard Black / Stringy Hair / Cigarette / Regular Shades
 4994, Green, Mole / Goat / Mohawk
 4995, Male 3, Hoodie / Horned Rim Glasses
-4996, Green Female, Hot Lipstick / Earring / Red Mohawk
-4997, Green Female, Hot Lipstick / Straight Hair Dark / Purple Eye Shadow
+4996, Red Female, Hot Lipstick / Earring / Red Mohawk
+4997, Blue Female, Hot Lipstick / Straight Hair Dark / Purple Eye Shadow
 4998, Skeleton, Chinstrap / Messy Hair / Cigarette
 4999, Male 3, Mole / Goat / Stringy Hair / Nerd Glasses
 5000, Female 3, Hot Lipstick / Wild White Hair / Green Eye Shadow
@@ -5068,7 +5068,7 @@ id, type, attributes
 5066, Gold, Earring / Knitted Cap
 5067, Female 1, Earring / Red Mohawk / Classic Shades
 5068, Female 1, Earring / Messy Hair / Laser Eyes Gold
-5069, Green Female, Straight Hair Dark / Green Eye Shadow
+5069, Purple Female, Straight Hair Dark / Green Eye Shadow
 5070, Male 3, Mole / Cap Forward / Regular Shades
 5071, Female 3, Hot Lipstick / Bandana / Big Shades
 5072, Gold, Knitted Cap / Horned Rim Glasses
@@ -5081,7 +5081,7 @@ id, type, attributes
 5079, Green Female, Hot Lipstick / Messy Hair / Pipe / Clown Eyes Green
 5080, Male 3, Shadow Beard / Earring / Wild Hair / Laser Eyes Gold
 5081, Female 3, Black Lipstick / Blonde Short / Cigarette / VR
-5082, Green Female, Hot Lipstick / Blonde Short / Eye Patch
+5082, Purple Female, Hot Lipstick / Blonde Short / Eye Patch
 5083, Female 1, Earring / Pink With Hat / Cigarette / Clown Eyes Green
 5084, Female 3, Black Lipstick / Straight Hair Blonde / Clown Eyes Blue
 5085, Female 4, Purple Lipstick / Earring / Mohawk Dark
@@ -5130,7 +5130,7 @@ id, type, attributes
 5128, Green, Mustache / Earring / Cap Forward
 5129, Green Female, Black Lipstick / Earring / Crazy Hair
 5130, Male 1, Cap Forward / Pipe / Eye Patch
-5131, Gold, Earring / Mohawk Thin
+5131, Aqua, Earring / Purple Hair
 5132, Female 3, Choker / Mohawk Dark / Clown Eyes Blue
 5133, Green, Normal Beard / Earring / Mohawk Dark / Big Shades
 5134, Female 3, Black Lipstick
@@ -5163,7 +5163,7 @@ id, type, attributes
 5161, Female 3, Cigarette / Clown Eyes Green
 5162, Green, Purple Hair / Nerd Glasses
 5163, Male 3, Headband / Vape
-5164, Green Female, Hot Lipstick / Half Shaved / VR
+5164, Purple Female, Hot Lipstick / Half Shaved / VR
 5165, Female 1, Mohawk Dark / Purple Eye Shadow
 5166, Female 1, Purple Lipstick / Earring / Straight Hair Blonde / Clown Eyes Blue
 5167, Female 3, Purple Lipstick / Gold Chain / Crazy Hair
@@ -5176,7 +5176,7 @@ id, type, attributes
 5174, Male 1, Shadow Beard / Earring / Frumpy Hair
 5175, Green, Gold Chain / Earring / Bandana / Cigarette
 5176, Demon, Earring / Mohawk / Big Shades
-5177, Green Female, Hot Lipstick / Straight Hair Blonde / Clown Eyes Green
+5177, Purple Female, Hot Lipstick / Straight Hair Blonde / Clown Eyes Green
 5178, Male 3, Police Cap / Big Shades
 5179, Green, Fedora / Eye Patch
 5180, Female 1, Crazy Hair / Classic Shades
@@ -5198,7 +5198,7 @@ id, type, attributes
 5196, Male 1, Front Beard / Vampire Hair
 5197, Male 3, Luxurious Beard / Clown Nose
 5198, Male 1, Mustache / Mohawk / Regular Shades
-5199, Green Female, Hot Lipstick / Messy Hair / Nerd Glasses
+5199, Blue Female, Hot Lipstick / Messy Hair / Nerd Glasses
 5200, Green, Mohawk / Eye Patch
 5201, Male 1, Frumpy Hair / Pipe / Eye Mask
 5202, Female 1, Black Lipstick / Earring / Mohawk Thin / Classic Shades
@@ -5220,7 +5220,7 @@ id, type, attributes
 5218, Blue, Shadow Beard / Hoodie / Classic Shades
 5219, Green Female, Purple Lipstick / Wild Blonde / Medical Mask
 5220, Green, Front Beard / Earring / Bandana
-5221, Green Female, Hot Lipstick / Tassle Hat / Big Shades
+5221, Red Female, Hot Lipstick / White Side / Big Shades
 5222, Female 1, Black Lipstick / Mole / Mohawk Dark
 5223, Green, Big Beard / Headband / Classic Shades
 5224, Male 1, Luxurious Beard / Crazy Hair
@@ -5330,7 +5330,7 @@ id, type, attributes
 5328, Male 3, Earring / Bandana / 3D Glasses
 5329, Green, Mohawk Thin / Regular Shades
 5330, Green Female, Earring / Crazy Hair / Horned Rim Glasses
-5331, Female 3, Earring / Pilot Helmet / Cigarette
+5331, Red Female, Earring / Messy Hair Blonde / Cigarette
 5332, Green Female, Black Lipstick / Red Mohawk / Vape / Nerd Glasses
 5333, Green Female, Earring / Dark Hair / Cigarette
 5334, Green, Mole / Goat / Earring / Wild Hair
@@ -5342,9 +5342,9 @@ id, type, attributes
 5340, Female 1, Mohawk / Eye Patch
 5341, Male 1, Normal Beard Black / Cap / Horned Rim Glasses
 5342, Male 3, Earring / Do-rag / Cigarette / Eye Patch
-5343, Green Female, Tassle Hat / Clown Eyes Blue
+5343, Purple Female, Pigtails Blonde / Clown Eyes Blue
 5344, Male 4, Buck Teeth / Earring
-5345, Green Female, Straight Hair Blonde / Clown Eyes Blue
+5345, Blue Female, Straight Hair Blonde / Clown Eyes Blue
 5346, Green, Earring / Vampire Hair / Horned Rim Glasses
 5347, Female 4, Wild Blonde / Blue Eye Shadow
 5348, Female 1, Black Lipstick / Clown Hair Green
@@ -5431,7 +5431,7 @@ id, type, attributes
 5429, Female 3, Earring / Wild Blonde / Cigarette / Nerd Glasses
 5430, Blue, Spots / Luxurious Beard / Earring
 5431, Female 4, Purple Lipstick / Straight Hair Blonde / Purple Eye Shadow
-5432, Green Female, Hot Lipstick / Mohawk
+5432, Blue Female, Hot Lipstick / Mohawk
 5433, Demon, Muttonchops / Clown Hair Green
 5434, Male 4, Goat / Mohawk
 5435, Green, Chinstrap / Stringy Hair / Classic Shades
@@ -5465,8 +5465,8 @@ id, type, attributes
 5463, Male 3, Front Beard Dark
 5464, Male 1, Silver Chain / Earring / Shaved Head / Regular Shades
 5465, Skeleton, Chinstrap / Shaved Head / Regular Shades
-5466, Gold, 
-5467, Green Female, Hot Lipstick / Earring / Stringy Hair
+5466, Aqua, 
+5467, Purple Female, Hot Lipstick / Earring / Stringy Hair
 5468, Female 3, Purple Lipstick / Wild Hair / Clown Eyes Blue
 5469, Female 3, Black Lipstick / Earring / Stringy Hair / Blue Eye Shadow
 5470, Male 1, Wild Hair / Cigarette
@@ -5490,7 +5490,7 @@ id, type, attributes
 5488, Male 3, Mustache / Police Cap / Eye Patch
 5489, Zombie, Fedora
 5490, Female 1, Hot Lipstick / Mole / Half Shaved / VR
-5491, Gold, Police Cap
+5491, Red, Police Cap
 5492, Green Female, Rosy Cheeks / Frumpy Hair
 5493, Female 1, Purple Lipstick / Pigtails / Pipe / Classic Shades
 5494, Green, Normal Beard Black / Earring / Stringy Hair
@@ -5566,7 +5566,7 @@ id, type, attributes
 5564, Green Female, Cap / Pipe / Nerd Glasses
 5565, Female 3, Black Lipstick / Knitted Cap / Green Eye Shadow
 5566, Female 1, Black Lipstick / Straight Hair / Classic Shades
-5567, Green Female, Messy Hair / Purple Eye Shadow
+5567, Blue Female, Messy Hair / Purple Eye Shadow
 5568, Male 3, Do-rag / Pipe
 5569, Green, Cap / 3D Glasses
 5570, Green, Mustache / Frumpy Hair / Big Shades
@@ -5618,7 +5618,7 @@ id, type, attributes
 5616, Female 4, Hot Lipstick / Earring / Knitted Cap
 5617, Green, Luxurious Beard / Knitted Cap / 3D Glasses
 5618, Green, Messy Hair / VR
-5619, Female 1, Hot Lipstick / Earring / Tassle Hat
+5619, Purple Female, Hot Lipstick / Earring / Messy Hair Blonde
 5620, Green Female, Hot Lipstick / Bandana / Blue Eye Shadow
 5621, Green Female, Purple Lipstick / Straight Hair Blonde / Classic Shades
 5622, Female 1, Hot Lipstick / Gold Chain / Earring / Blonde Bob / Pipe / Clown Eyes Green
@@ -5691,7 +5691,7 @@ id, type, attributes
 5689, Female 3, Red Mohawk / Nerd Glasses
 5690, Green, Muttonchops / Beanie / 3D Glasses
 5691, Green Female, Purple Lipstick / Clown Hair Green / Green Eye Shadow
-5692, Green Female, Hot Lipstick / Earring / Tiara / Purple Eye Shadow
+5692, Blue Female, Hot Lipstick / Earring / Tiara / Purple Eye Shadow
 5693, Green Female, Straight Hair / Vape / Classic Shades
 5694, Male 3, Shadow Beard / Mohawk / Laser Eyes Gold
 5695, Male 3, Normal Beard Black / Earring / Mohawk Dark / Big Shades
@@ -5742,8 +5742,8 @@ id, type, attributes
 5740, Male 3, Goat / Shaved Head / 3D Glasses
 5741, Male 3, Goat / Mohawk / Horned Rim Glasses
 5742, Zombie, Mohawk Dark
-5743, Female 3, Earring / Tassle Hat
-5744, Green Female, Frumpy Hair / Big Shades
+5743, Red Female, Earring / Pink Short
+5744, Blue Female, Frumpy Hair / Big Shades
 5745, Female 3, Spots / Blonde Short
 5746, Male 3, Mole / Shadow Beard / Earring / Clown Hair Green / Laser Eyes Gold
 5747, Male 3, Frumpy Hair / Classic Shades
@@ -5814,7 +5814,7 @@ id, type, attributes
 5812, Male 1, Front Beard Dark / Headband
 5813, Female 1, Straight Hair / Clown Eyes Green
 5814, Male 4, Silver Chain / Earring / Messy Hair
-5815, Green Female, Wild Hair / Clown Eyes Blue
+5815, Red Female, Wild Hair / Clown Eyes Blue
 5816, Male 1, Goat / Cap Forward / Cigarette
 5817, Male 1, Handlebars / Vampire Hair / Vape
 5818, Green, Hoodie / Medical Mask / 3D Glasses
@@ -5842,7 +5842,7 @@ id, type, attributes
 5840, Male 1, Normal Beard / Peak Spike / Horned Rim Glasses
 5841, Male 3, Silver Chain / Shadow Beard / Earring / Top Hat
 5842, Male 3, Muttonchops / Mohawk Thin / Laser Eyes Gold
-5843, Green Female, Frumpy Hair / Green Eye Shadow
+5843, Red Female, Frumpy Hair / Green Eye Shadow
 5844, Female 3, Straight Hair Dark / Purple Eye Shadow
 5845, Green, Big Beard / Cap Forward
 5846, Green, Mole / Goat / Do-rag / Laser Eyes Gold
@@ -5955,7 +5955,7 @@ id, type, attributes
 5953, Green, Knitted Cap / Regular Shades
 5954, Green, Earring / Knitted Cap / Nerd Glasses
 5955, Female 1, Purple Lipstick / Headband / Green Eye Shadow
-5956, Gold, Knitted Cap
+5956, Aqua, Cap
 5957, Male 3, Normal Beard / Peak Spike / Eye Patch
 5958, Male 3, Wild Hair / Medical Mask / Horned Rim Glasses
 5959, Male 1, Mustache / Mohawk / Cigarette / Eye Patch
@@ -6028,7 +6028,7 @@ id, type, attributes
 6026, Male 3, Luxurious Beard / Wild Hair
 6027, Male 3, Mole / Shaved Head / Classic Shades
 6028, Female 1, Earring / Stringy Hair / Green Eye Shadow
-6029, Green Female, Earring / Tassle Hat / Purple Eye Shadow
+6029, Purple Female, Earring / Messy Hair Green / Purple Eye Shadow
 6030, Green Female, Spots / Wild Blonde / Classic Shades
 6031, Green, Front Beard Dark / Pipe / Horned Rim Glasses
 6032, Green, Big Beard / Stringy Hair / Regular Shades
@@ -6077,13 +6077,13 @@ id, type, attributes
 6075, Female 3, Straight Hair Dark / 3D Glasses
 6076, Male 1, Earring / Messy Hair / Clown Eyes Green
 6077, Female 1, Black Lipstick / Mohawk Thin / Nerd Glasses
-6078, Green Female, Hot Lipstick / Red Mohawk / Clown Eyes Blue
+6078, Purple Female, Hot Lipstick / Red Mohawk / Clown Eyes Blue
 6079, Female 3, Hot Lipstick / Wild Hair / Clown Eyes Blue
 6080, Male 1, Frumpy Hair / 3D Glasses
-6081, Gold, 
+6081, Red, 
 6082, Green, Goat / Peak Spike
 6083, Male 1, Wild Hair / Cigarette / Horned Rim Glasses
-6084, Female 4, Purple Lipstick / Tassle Hat
+6084, Blue Female, Purple Lipstick / White Side
 6085, Male 3, Mustache / Frumpy Hair
 6086, Female 3, Hot Lipstick / Earring / Frumpy Hair / Pipe
 6087, Male 3, Goat / Peak Spike / Regular Shades
@@ -6132,7 +6132,7 @@ id, type, attributes
 6130, Male 3, Front Beard / Mohawk Dark
 6131, Male 3, Goat / Earring / Horned Rim Glasses
 6132, Green, Shadow Beard / Mohawk Thin / Cigarette / VR
-6133, Green Female, Hot Lipstick / Tassle Hat / Purple Eye Shadow
+6133, Purple Female, Hot Lipstick / White Side / Purple Eye Shadow
 6134, Male 4, Muttonchops / Frumpy Hair
 6135, Green, Muttonchops / Hoodie / Regular Shades
 6136, Female 3, Black Lipstick / Bandana / Blue Eye Shadow
@@ -6230,7 +6230,7 @@ id, type, attributes
 6228, Green, Normal Beard Black / Headband / Classic Shades
 6229, Gold, Earring / Knitted Cap / Cigarette / Eye Patch
 6230, Female 1, Mohawk / Cigarette
-6231, Green Female, Hot Lipstick / Choker / Half Shaved
+6231, Purple Female, Hot Lipstick / Choker / Half Shaved
 6232, Green, Bandana / 3D Glasses
 6233, Male 1, Shadow Beard / Police Cap / Cigarette / Eye Patch
 6234, Male 4, Normal Beard / Wild Hair / Classic Shades
@@ -6255,7 +6255,7 @@ id, type, attributes
 6253, Female 3, Straight Hair Dark / Cigarette
 6254, Green, Handlebars / Earring / Bandana / Eye Patch
 6255, Green Female, Purple Lipstick / Pink With Hat / Eye Mask
-6256, Green Female, Hot Lipstick / Earring / Blonde Short
+6256, Red Female, Hot Lipstick / Earring / Blonde Short
 6257, Female 1, Black Lipstick / Bandana / Cigarette
 6258, Green, Shadow Beard / Mohawk Dark
 6259, Female 3, Hot Lipstick / Earring / Mohawk Thin
@@ -6291,7 +6291,7 @@ id, type, attributes
 6289, Gold, Shadow Beard / Mohawk Dark / Laser Eyes Gold
 6290, Female 3, Hot Lipstick / Stringy Hair / Big Shades
 6291, Gold, Mohawk / Regular Shades
-6292, Green Female, Headband / Blue Eye Shadow
+6292, Red Female, Headband / Blue Eye Shadow
 6293, Female 3, Hot Lipstick / Knitted Cap / Green Eye Shadow / Clown Nose
 6294, Female 3, Hot Lipstick / Crazy Hair / Classic Shades
 6295, Male 3, Normal Beard Black / Earring / Stringy Hair / Cigarette / Eye Patch
@@ -6339,7 +6339,7 @@ id, type, attributes
 6337, Male 3, Mohawk Dark / Big Shades
 6338, Female 3, Wild Blonde / Blue Eye Shadow
 6339, Male 3, Horned Rim Glasses
-6340, Green Female, Hot Lipstick / Mole / Earring / Dark Hair
+6340, Red Female, Hot Lipstick / Mole / Earring / Dark Hair
 6341, Female 1, Mole / Clown Eyes Blue
 6342, Green, Earring / Cowboy Hat / Laser Eyes Gold
 6343, Green Female, Purple Lipstick / Wild Hair / Green Eye Shadow
@@ -6376,7 +6376,7 @@ id, type, attributes
 6374, Male 1, Shadow Beard / Cap Forward / Cigarette / Laser Eyes Gold
 6375, Male 1, Cowboy Hat / Pipe
 6376, Female 1, Purple Lipstick / Stringy Hair / Pipe / Eye Mask
-6377, Green Female, Hot Lipstick / Wild Blonde / Regular Shades
+6377, Blue Female, Hot Lipstick / Wild Blonde / Regular Shades
 6378, Female 4, Messy Hair / Eye Mask
 6379, Female 3, Black Lipstick / Earring / Mohawk Thin
 6380, Green, Front Beard Dark / Earring / Do-rag / Nerd Glasses
@@ -6446,7 +6446,7 @@ id, type, attributes
 6444, Male 4, Mole / Normal Beard Black / Earring / Peak Spike
 6445, Male 3, Front Beard Dark / Frumpy Hair / Nerd Glasses
 6446, Male 1, Luxurious Beard / Wild Hair / Classic Shades
-6447, Gold, Do-rag
+6447, Red, Do-rag
 6448, Female 1, Knitted Cap / Eye Patch
 6449, Male 4, Front Beard Dark / Shaved Head
 6450, Female 4, Hot Lipstick / Spots / Wild Hair
@@ -6474,7 +6474,7 @@ id, type, attributes
 6472, Male 3, Earring / Beanie
 6473, Male 3, Purple Hair / VR
 6474, Male 1, Luxurious Beard / Mohawk Dark
-6475, Bot, Mohawk
+6475, Aqua, Mohawk
 6476, Male 3, Normal Beard Black / Earring / Peak Spike / Clown Eyes Blue
 6477, Green, Handlebars / Top Hat / Eye Mask
 6478, Female 3, Black Lipstick / Mohawk / Cigarette / Blue Eye Shadow
@@ -6511,7 +6511,7 @@ id, type, attributes
 6509, Female 1, Black Lipstick / Dark Hair / Blue Eye Shadow
 6510, Female 4, Hot Lipstick / Cap / Eye Patch
 6511, Blue, Earring / Top Hat / Regular Shades
-6512, Green Female, Hot Lipstick / Knitted Cap / Clown Eyes Blue
+6512, Blue Female, Hot Lipstick / Knitted Cap / Clown Eyes Blue
 6513, Female 1, Purple Lipstick / Pink With Hat / 3D Glasses
 6514, Male 1, Mole / Shadow Beard / Do-rag
 6515, Zombie, Wild Hair / Cigarette
@@ -6568,7 +6568,7 @@ id, type, attributes
 6566, Green Female, Earring / Knitted Cap / 3D Glasses
 6567, Green, Normal Beard / Knitted Cap / Laser Eyes Gold
 6568, Green Female, Wild Blonde / Nerd Glasses
-6569, Green Female, Hot Lipstick / Earring / Dark Hair / Cigarette
+6569, Red Female, Hot Lipstick / Earring / Dark Hair / Cigarette
 6570, Green Female, Purple Lipstick / Earring / Red Mohawk
 6571, Green Female, Black Lipstick / Silver Chain / Dark Hair
 6572, Green, Front Beard / Stringy Hair / Clown Eyes Green
@@ -6576,16 +6576,16 @@ id, type, attributes
 6574, Female 3, Earring / Bandana / Cigarette
 6575, Male 3, Buck Teeth / Clown Hair Green
 6576, Female 4, Tassle Hat / Regular Shades
-6577, Green Female, Hot Lipstick / Spots / Blonde Bob
+6577, Blue Female, Hot Lipstick / Spots / Blonde Bob
 6578, Green, Hoodie / Regular Shades
 6579, Green, Earring / Frumpy Hair / VR
 6580, Male 4, Chinstrap / Mohawk Dark / Nerd Glasses
 6581, Female 1, Tiara / Cigarette
 6582, Male 1, Luxurious Beard / Crazy Hair / 3D Glasses
-6583, Green, Big Beard / Bandana
+6583, Purple, Big Beard / Bandana
 6584, Green Female, Stringy Hair / Nerd Glasses
 6585, Male 4, Chinstrap / Messy Hair / Classic Shades
-6586, Gold, Knitted Cap
+6586, Red, Cap
 6587, Female 3, Hot Lipstick / Earring / Cap
 6588, Female 1, Mohawk Dark / Classic Shades
 6589, Female 3, Wild White Hair / Clown Nose
@@ -6631,8 +6631,8 @@ id, type, attributes
 6629, Female 1, Black Lipstick / Wild Blonde / Laser Eyes Gold
 6630, Male 3, Headband / Nerd Glasses
 6631, Female 3, Hot Lipstick / Half Shaved / Purple Eye Shadow
-6632, Gold, Peak Spike
-6633, Gold, Earring / Stringy Hair / 3D Glasses
+6632, Aqua, Shaved Head
+6633, Aqua, Earring / Stringy Hair / 3D Glasses
 6634, Male 3, Earring / Hoodie / Cigarette / 3D Glasses
 6635, Male 3, Front Beard / Cap Forward / Horned Rim Glasses
 6636, Green, Mole / Earring / Mohawk Thin
@@ -6651,7 +6651,7 @@ id, type, attributes
 6649, Zombie, Front Beard Dark / Crazy Hair
 6650, Male 3, Goat / Cap Forward / Laser Eyes Gold
 6651, Female 1, Half Shaved / VR
-6652, Demon, Messy Hair
+6652, Aqua, Messy Hair
 6653, Male 3, Earring / Wild Hair / Eye Patch
 6654, Green, Front Beard Dark / Bandana / Regular Shades
 6655, Bot, Do-rag / Horned Rim Glasses
@@ -6660,7 +6660,7 @@ id, type, attributes
 6658, Male 3, Earring / Vampire Hair
 6659, Male 4, Mustache / Mohawk Dark
 6660, Male 1, Chinstrap / Earring / Mohawk Thin / Pipe
-6661, Gold, Wild Hair
+6661, Red, Wild Hair
 6662, Green Female, Purple Lipstick / Stringy Hair / Clown Eyes Blue
 6663, Female 1, Mole / Half Shaved / Laser Eyes Gold
 6664, Female 3, Knitted Cap / Cigarette
@@ -6713,10 +6713,10 @@ id, type, attributes
 6711, Green Female, Rosy Cheeks / Blonde Bob / 3D Glasses
 6712, Green Female, Wild Hair / Horned Rim Glasses / Clown Nose
 6713, Male 4, Shaved Head / Big Shades
-6714, Green Female, Blonde Short / Regular Shades
+6714, Blue Female, Blonde Short / Regular Shades
 6715, Male 4, Chinstrap / Peak Spike / Pipe / Nerd Glasses
 6716, Female 4, Earring / Bandana / Big Shades
-6717, Gold, Stringy Hair
+6717, Aqua, Stringy Hair
 6718, Female 1, Purple Lipstick / Earring / Crazy Hair / Purple Eye Shadow
 6719, Male 1, Goat / Cowboy Hat
 6720, Green Female, Earring / Pilot Helmet / Cigarette
@@ -6815,10 +6815,10 @@ id, type, attributes
 6813, Male 4, Messy Hair / Eye Mask
 6814, Green Female, Spots / Earring / Wild Blonde / Clown Eyes Blue
 6815, Male 4, Mustache / Headband / Regular Shades
-6816, Green Female, Hot Lipstick / Blonde Bob / Clown Eyes Blue
+6816, Red Female, Hot Lipstick / Blonde Bob / Clown Eyes Blue
 6817, Green Female, Purple Lipstick / Pilot Helmet / Vape
 6818, Male 1, Do-rag / VR
-6819, Male 3, Buck Teeth / Front Beard Dark / Cap
+6819, Red, Buck Teeth / Front Beard Dark / Cap
 6820, Green, Chinstrap / Earring / Wild Hair
 6821, Green Female, Purple Lipstick / Earring / Crazy Hair
 6822, Green Female, Purple Lipstick / Half Shaved / Eye Mask
@@ -6901,7 +6901,7 @@ id, type, attributes
 6899, Male 1, Handlebars / Mohawk Dark / Horned Rim Glasses
 6900, Female 3, Crazy Hair / Cigarette / Purple Eye Shadow
 6901, Green, Normal Beard / Stringy Hair
-6902, Female 3, Black Lipstick / Tassle Hat / Blue Eye Shadow
+6902, Red Female, Black Lipstick / Half Shaved Purple / Blue Eye Shadow
 6903, Female 1, Gold Chain / Stringy Hair / Eye Mask
 6904, Female 1, Hot Lipstick / Dark Hair / Eye Mask
 6905, Male 3, Headband / Big Shades
@@ -6923,7 +6923,7 @@ id, type, attributes
 6921, Male 3, Front Beard
 6922, Male 3, Mustache / Earring / Wild Hair / Laser Eyes Gold
 6923, Male 3, Mustache / Hoodie / Laser Eyes Gold
-6924, Green Female, Hot Lipstick / Pigtails / Clown Eyes Blue
+6924, Purple Female, Hot Lipstick / Pigtails / Clown Eyes Blue
 6925, Green, Earring / Do-rag / Regular Shades
 6926, Male 1, Muttonchops / Hoodie / Cigarette / Eye Patch
 6927, Green, Goat / Messy Hair / Big Shades
@@ -7030,7 +7030,7 @@ id, type, attributes
 7028, Green, Front Beard Dark / Earring / Peak Spike
 7029, Male 1, Mole / Front Beard Dark / Cap Forward
 7030, Male 1, Goat / Bandana / Big Shades
-7031, Gold, Cowboy Hat
+7031, Purple, Cowboy Hat
 7032, Green, Mustache / Stringy Hair / Cigarette / Clown Eyes Blue
 7033, Female 4, Mole / Mohawk Thin / Clown Eyes Green
 7034, Male 3, Luxurious Beard / Earring / Frumpy Hair / Clown Nose
@@ -7043,15 +7043,15 @@ id, type, attributes
 7041, Female 3, Hot Lipstick / Cap / Green Eye Shadow
 7042, Demon, Wild Hair / Cigarette
 7043, Female 1, Mohawk / Vape
-7044, Female 1, Hot Lipstick / Earring / Tassle Hat / Green Eye Shadow
+7044, Red Female, Hot Lipstick / Earring / Messy Hair Green / Green Eye Shadow
 7045, Female 3, Earring / Tassle Hat / Nerd Glasses
 7046, Male 1, Gold Chain / Earring / Stringy Hair / Nerd Glasses
 7047, Male 4, Handlebars / Top Hat
 7048, Male 3, Spots / Messy Hair / VR
 7049, Male 4, Mohawk Thin / Clown Eyes Green
 7050, Male 3, Luxurious Beard / Do-rag / Vape
-7051, Gold, Mohawk Thin
-7052, Green Female, Hot Lipstick / Straight Hair Blonde / Regular Shades
+7051, Purple, Shaved Head
+7052, Red Female, Hot Lipstick / Straight Hair Blonde / Regular Shades
 7053, Male 3, Cap / Eye Mask
 7054, Male 1, Goat / Regular Shades
 7055, Green, Mustache / Stringy Hair / Medical Mask / Regular Shades
@@ -7129,13 +7129,13 @@ id, type, attributes
 7127, Zombie, Earring / Bandana / Eye Mask
 7128, Female 3, Straight Hair Blonde / Cigarette
 7129, Male 4, Goat / Hoodie / Clown Eyes Green
-7130, Bot, Shaved Head
+7130, Red, Shaved Head
 7131, Female 1, Purple Lipstick / Clown Hair Green / Cigarette / Blue Eye Shadow
 7132, Green, Earring / Wild Hair / Clown Eyes Green
 7133, Female 3, Blonde Bob / Big Shades
 7134, Gold, Goat / Mohawk Dark / Cigarette / Eye Patch
 7135, Male 3, Cap Forward / Pipe
-7136, Green Female, Hot Lipstick / Earring / Crazy Hair
+7136, Blue Female, Hot Lipstick / Earring / Crazy Hair
 7137, Male 3, Mustache / Earring / Crazy Hair / Classic Shades
 7138, Green Female, Purple Lipstick / Tiara / Clown Eyes Blue
 7139, Green, Shadow Beard / Earring / Wild Hair / 3D Glasses
@@ -7165,7 +7165,7 @@ id, type, attributes
 7163, Green, Big Beard / Fedora / Vape / Horned Rim Glasses
 7164, Green, Earring / Fedora
 7165, Female 3, Stringy Hair / Nerd Glasses
-7166, Gold, Peak Spike
+7166, Red, Purple Hair
 7167, Male 1, Shadow Beard / Earring / Shaved Head / 3D Glasses
 7168, Green, Front Beard / Cap Forward / 3D Glasses
 7169, Female 4, Mole / Straight Hair Blonde
@@ -7228,7 +7228,7 @@ id, type, attributes
 7226, Green, Front Beard Dark / Knitted Cap / Big Shades / Clown Nose
 7227, Male 3, Front Beard Dark / Police Cap
 7228, Female 3, Black Lipstick / Frumpy Hair / Clown Nose
-7229, Green Female, Hot Lipstick / Wild White Hair / Purple Eye Shadow
+7229, Blue Female, Hot Lipstick / Wild White Hair / Purple Eye Shadow
 7230, Female 3, Black Lipstick / Mohawk Dark / Eye Mask
 7231, Male 3, Mole / Crazy Hair / Classic Shades
 7232, Male 1, Muttonchops / Headband
@@ -7321,7 +7321,7 @@ id, type, attributes
 7319, Male 4, Normal Beard Black / Headband
 7320, Male 1, Cap Forward / Cigarette / Horned Rim Glasses
 7321, Male 4, Normal Beard / Earring / Mohawk
-7322, Green Female, Straight Hair Blonde / Nerd Glasses
+7322, Red Female, Straight Hair Blonde / Nerd Glasses
 7323, Male 1, Goat / Headband
 7324, Male 3, Handlebars / Cap Forward / Cigarette
 7325, Female 1, Black Lipstick / Straight Hair Dark / Nerd Glasses
@@ -7337,7 +7337,7 @@ id, type, attributes
 7335, Gold, Knitted Cap / Eye Patch
 7336, Female 1, Earring / Blonde Short / Classic Shades
 7337, Zombie, Normal Beard Black / Peak Spike
-7338, Female 3, Hot Lipstick / Earring / Pilot Helmet
+7338, Red Female, Hot Lipstick / Earring / Messy Hair Green
 7339, Male 1, Goat / Earring / Cap / Clown Eyes Green
 7340, Male 3, Silver Chain / Normal Beard / Mohawk
 7341, Male 3, Front Beard / Vampire Hair / Clown Eyes Green
@@ -7447,7 +7447,7 @@ id, type, attributes
 7445, Female 3, Hot Lipstick / Wild Blonde / Cigarette
 7446, Male 4, Wild Hair / Eye Patch
 7447, Green Female, Crazy Hair / Green Eye Shadow
-7448, Green Female, Crazy Hair / Blue Eye Shadow
+7448, Blue Female, Crazy Hair / Blue Eye Shadow
 7449, Green, Front Beard Dark / Do-rag / Cigarette / Laser Eyes Gold
 7450, Green Female, Purple Lipstick / Gold Chain / Mohawk / Cigarette
 7451, Male 4, Crazy Hair / VR
@@ -7468,7 +7468,7 @@ id, type, attributes
 7466, Green, Shadow Beard / Messy Hair / Regular Shades
 7467, Green, Front Beard / Cap Forward / Cigarette
 7468, Male 3, Normal Beard Black / Cap Forward / Big Shades
-7469, Green Female, Earring / Tassle Hat / Nerd Glasses
+7469, Blue Female, Earring / Pigtails Red / Nerd Glasses
 7470, Green, Earring / Vampire Hair / Clown Eyes Green
 7471, Green, Mole / Cowboy Hat / Eye Patch
 7472, Green, Normal Beard / Mohawk Thin / Big Shades
@@ -7555,7 +7555,7 @@ id, type, attributes
 7553, Female 3, Black Lipstick / Earring / Red Mohawk / Clown Eyes Green
 7554, Male 3, Shadow Beard / Shaved Head / Eye Mask
 7555, Green Female, Hot Lipstick / Mole / Red Mohawk
-7556, Green Female, Mohawk Thin / Clown Eyes Green
+7556, Purple Female, Mohawk Thin / Clown Eyes Green
 7557, Female 3, Purple Lipstick / Mole / Tiara / Horned Rim Glasses
 7558, Male 4, Cap Forward / Nerd Glasses
 7559, Green, Earring / Frumpy Hair / Nerd Glasses
@@ -7567,7 +7567,7 @@ id, type, attributes
 7565, Male 3, Bandana / Cigarette / Eye Mask
 7566, Green, Earring / Shaved Head / Horned Rim Glasses
 7567, Male 4, Stringy Hair / Horned Rim Glasses
-7568, Green Female, Hot Lipstick / Dark Hair / Blue Eye Shadow
+7568, Red Female, Hot Lipstick / Dark Hair / Blue Eye Shadow
 7569, Male 1, Gold Chain / Cowboy Hat
 7570, Male 3, Normal Beard Black / Earring / Mohawk / Nerd Glasses
 7571, Male 3, Rosy Cheeks / Headband
@@ -7578,7 +7578,7 @@ id, type, attributes
 7576, Male 3, Mole / Earring / Fedora / Horned Rim Glasses
 7577, Female 4, Straight Hair Blonde / Classic Shades
 7578, Male 3, Rosy Cheeks / Normal Beard / Mohawk Thin
-7579, Gold, Earring / Shaved Head
+7579, Purple, Earring / Messy Hair
 7580, Female 3, Purple Lipstick / Cap
 7581, Male 4, Bandana / Eye Mask
 7582, Male 1, Muttonchops / Police Cap / Vape
@@ -7586,7 +7586,7 @@ id, type, attributes
 7584, Green, Frumpy Hair / 3D Glasses
 7585, Male 3, Normal Beard Black / Earring / Cowboy Hat / Big Shades
 7586, Green Female, Purple Lipstick / Frumpy Hair / Cigarette / Classic Shades
-7587, Female 1, Earring / Tassle Hat / Eye Mask
+7587, Blue Female, Earring / Pigtails Red / Eye Mask
 7588, Orc, 
 7589, Female 3, Dark Hair / Horned Rim Glasses
 7590, Female 4, Mohawk / Medical Mask
@@ -7609,7 +7609,7 @@ id, type, attributes
 7607, Green, Buck Teeth / Knitted Cap
 7608, Male 1, Front Beard / Mohawk Dark
 7609, Green, Earring / Knitted Cap / Big Shades
-7610, Green Female, Hot Lipstick / Mohawk / Clown Eyes Green
+7610, Red Female, Hot Lipstick / Mohawk / Clown Eyes Green
 7611, Green, Big Beard / Mohawk / Cigarette
 7612, Green, Earring / Vampire Hair
 7613, Male 3, Goat / Purple Hair / 3D Glasses
@@ -7659,7 +7659,7 @@ id, type, attributes
 7657, Male 1, Earring / Headband / Cigarette / Nerd Glasses
 7658, Male 3, Silver Chain / Goat / Earring / Headband
 7659, Female 3, Black Lipstick / Tassle Hat / Pipe
-7660, Gold, Do-rag
+7660, Purple, Do-rag
 7661, Female 3, Hot Lipstick / Mole / Straight Hair / Vape / Blue Eye Shadow
 7662, Female 4, Purple Lipstick / Bandana
 7663, Female 1, Purple Lipstick / Earring / Pink With Hat / Green Eye Shadow
@@ -7693,7 +7693,7 @@ id, type, attributes
 7691, Male 3, Normal Beard / Police Cap / Laser Eyes Gold
 7692, Bot, Luxurious Beard / Headband / Eye Patch
 7693, Female 1, Hot Lipstick / Mohawk / Regular Shades
-7694, Green Female, Hot Lipstick / Pigtails / Nerd Glasses
+7694, Purple Female, Hot Lipstick / Pigtails / Nerd Glasses
 7695, Green Female, Blonde Bob / Medical Mask / 3D Glasses
 7696, Male 3, Muttonchops / Bandana / Nerd Glasses
 7697, Male 3, Normal Beard Black / Purple Hair / Cigarette / Nerd Glasses
@@ -7710,11 +7710,11 @@ id, type, attributes
 7708, Male 1, Muttonchops / Crazy Hair / Cigarette / Eye Patch
 7709, Male 1, Mole / Silver Chain / Earring / Mohawk Thin
 7710, Female 3, Purple Lipstick / Earring / Half Shaved / Purple Eye Shadow
-7711, Orc, Frumpy Hair
+7711, Red, Frumpy Hair
 7712, Male 3, Goat / Cowboy Hat
 7713, Male 1, Goat / Mohawk / Vape / Big Shades
 7714, Female 3, Black Lipstick / Earring / Bandana / Purple Eye Shadow
-7715, Green Female, Hot Lipstick / Wild White Hair / Classic Shades
+7715, Blue Female, Hot Lipstick / Wild White Hair / Classic Shades
 7716, Bot, Chinstrap / Earring / Headband
 7717, Male 3, Front Beard Dark / Mohawk / Cigarette
 7718, Male 3, Mustache / Mohawk Thin / Horned Rim Glasses
@@ -7834,7 +7834,7 @@ id, type, attributes
 7832, Female 1, Choker / Headband / Big Shades
 7833, Male 3, Front Beard / Frumpy Hair / Eye Mask
 7834, Female 1, Black Lipstick / Mohawk Thin / Clown Eyes Green
-7835, Gold, Handlebars / Mohawk
+7835, Purple, Handlebars / Mohawk
 7836, Green Female, Black Lipstick / Stringy Hair / Pipe
 7837, Male 1, Handlebars / Frumpy Hair / Laser Eyes Gold
 7838, Male 3, Front Beard Dark / Mohawk Dark / Big Shades
@@ -7891,7 +7891,7 @@ id, type, attributes
 7889, Female 3, Rosy Cheeks / Earring / Mohawk
 7890, Skeleton, Vampire Hair
 7891, Female 3, Earring / Cap / Medical Mask
-7892, Gold, Cowboy Hat
+7892, Aqua, Cowboy Hat
 7893, Male 1, Goat / Shaved Head
 7894, Female 1, Earring / Headband / Clown Eyes Blue
 7895, Green, Cowboy Hat / Horned Rim Glasses
@@ -7903,7 +7903,7 @@ id, type, attributes
 7901, Green, Handlebars / Top Hat / 3D Glasses
 7902, Male 1, Shadow Beard / Mohawk Dark / Pipe / Horned Rim Glasses
 7903, Female 3, Hot Lipstick / Red Mohawk / Big Shades
-7904, Green Female, Hot Lipstick / Earring / Crazy Hair / Clown Eyes Blue
+7904, Blue Female, Hot Lipstick / Earring / Crazy Hair / Clown Eyes Blue
 7905, Male 4, Normal Beard Black / Earring / Stringy Hair
 7906, Green Female, Purple Lipstick / Bandana / Clown Eyes Green
 7907, Female 4, Red Mohawk / Clown Eyes Blue
@@ -7939,7 +7939,7 @@ id, type, attributes
 7937, Female 4, Hot Lipstick / Tassle Hat / Nerd Glasses
 7938, Female 3, Earring / Clown Eyes Green
 7939, Male 3, Goat / Fedora / Classic Shades
-7940, Green Female, Hot Lipstick / Earring / Red Mohawk / Big Shades
+7940, Red Female, Hot Lipstick / Earring / Red Mohawk / Big Shades
 7941, Female 4, Half Shaved / Clown Eyes Blue
 7942, Female 1, Hot Lipstick / Choker / Pink With Hat
 7943, Green Female, Headband / Pipe / Clown Eyes Green
@@ -7957,7 +7957,7 @@ id, type, attributes
 7955, Male 1, Mole / Cap / Nerd Glasses
 7956, Bot, Goat / Police Cap / Pipe / Laser Eyes Gold
 7957, Female 3, Black Lipstick / Messy Hair / Clown Eyes Green
-7958, Green Female, Hot Lipstick / Clown Hair Green
+7958, Blue Female, Hot Lipstick / Clown Hair Green
 7959, Male 3, Muttonchops / Frumpy Hair / Pipe
 7960, Green, Fedora / Eye Mask
 7961, Green, Chinstrap / Mohawk / Clown Nose
@@ -8017,7 +8017,7 @@ id, type, attributes
 8015, Male 1, Front Beard / Cap Forward / Big Shades
 8016, Blue, Luxurious Beard / Crazy Hair / Medical Mask
 8017, Male 3, Earring / Top Hat / Eye Mask
-8018, Green Female, Hot Lipstick / Crazy Hair
+8018, Purple Female, Hot Lipstick / Crazy Hair
 8019, Skeleton, Earring / Knitted Cap / Regular Shades
 8020, Green Female, Hot Lipstick / Blonde Short / Big Shades
 8021, Green, Gold Chain / Mohawk Thin
@@ -8053,7 +8053,7 @@ id, type, attributes
 8051, Male 3, Handlebars / Messy Hair / Clown Eyes Green
 8052, Green, Mustache / Knitted Cap / Eye Patch
 8053, Male 3, Mustache / Top Hat
-8054, Green Female, Bandana / Blue Eye Shadow
+8054, Purple Female, Bandana / Blue Eye Shadow
 8055, Female 3, Hot Lipstick / Straight Hair / Clown Eyes Blue
 8056, Green, Luxurious Beard / Mohawk Dark / VR / Clown Nose
 8057, Female 3, Black Lipstick / Half Shaved / Cigarette / VR
@@ -8148,7 +8148,7 @@ id, type, attributes
 8146, Green, Beanie / Cigarette
 8147, Female 1, Purple Lipstick / Crazy Hair / Cigarette
 8148, Green Female, Blonde Short / Purple Eye Shadow
-8149, Green Female, Straight Hair Blonde / Purple Eye Shadow
+8149, Blue Female, Straight Hair Blonde / Purple Eye Shadow
 8150, Female 1, Stringy Hair / Green Eye Shadow
 8151, Green, Front Beard Dark / Headband / Laser Eyes Gold
 8152, Gold, Gold Chain / Luxurious Beard / Earring / Knitted Cap / Eye Patch
@@ -8205,14 +8205,14 @@ id, type, attributes
 8203, Female 3, Mole / Straight Hair / Purple Eye Shadow
 8204, Green, Handlebars / Crazy Hair / Eye Patch
 8205, Green, Front Beard / Messy Hair / Big Shades
-8206, Female 3, Stringy Hair / Medical Mask
+8206, Red Female, Stringy Hair / Medical Mask
 8207, Male 1, Messy Hair / Vape / 3D Glasses
 8208, Green, Goat / Mohawk Dark / Clown Eyes Blue
 8209, Female 1, Bandana / Eye Patch
 8210, Male 3, Big Beard / Crazy Hair
 8211, Green, Mole / Cap
 8212, Green, Goat / Earring / Headband
-8213, Bot, Knitted Cap
+8213, Aqua, Knitted Cap
 8214, Male 4, Luxurious Beard / Do-rag
 8215, Male 3, Chinstrap / Mohawk Thin / Laser Eyes Gold
 8216, Male 3, Chinstrap / Vampire Hair / Laser Eyes Gold
@@ -8250,7 +8250,7 @@ id, type, attributes
 8248, Green Female, Black Lipstick / Earring / Frumpy Hair / Blue Eye Shadow / Clown Nose
 8249, Green Female, Black Lipstick / Bandana / Purple Eye Shadow
 8250, Male 3, Clown Hair Green / Cigarette / Eye Patch
-8251, Female 3, Pilot Helmet / Pipe
+8251, Blue Female, Blonde Side / Pipe
 8252, Green Female, Crazy Hair / Cigarette
 8253, Green, Normal Beard / Cowboy Hat
 8254, Green Female, Mole / Wild Blonde / Purple Eye Shadow
@@ -8261,7 +8261,7 @@ id, type, attributes
 8259, Green, Handlebars / Fedora / Horned Rim Glasses
 8260, Female 3, Black Lipstick / Earring / Tiara
 8261, Female 3, Purple Lipstick / Red Mohawk / Cigarette
-8262, Gold, Earring / Shaved Head
+8262, Red, Earring / Messy Hair
 8263, Female 3, Rosy Cheeks / Earring
 8264, Male 4, Earring / Crazy Hair / Eye Patch
 8265, Green Female, Purple Lipstick / Earring / Pigtails / Big Shades
@@ -8368,11 +8368,11 @@ id, type, attributes
 8366, Male 3, Shadow Beard / Shaved Head / Eye Patch
 8367, Green, Knitted Cap / Cigarette / Eye Patch
 8368, Male 4, Earring / Clown Hair Green / 3D Glasses
-8369, Gold, Earring / Hoodie
+8369, Aqua, Earring / Hoodie
 8370, Male 1, Chinstrap / Regular Shades
 8371, Green, Mustache
 8372, Male 1, Chinstrap / Stringy Hair / Big Shades
-8373, Gold, Mohawk Thin
+8373, Purple, Mohawk Thin
 8374, Female 3, Purple Lipstick / Earring / Wild Blonde / Clown Eyes Blue
 8375, Male 3, Earring / Mohawk Thin / Regular Shades
 8376, Female 3, Black Lipstick / Earring / Headband / Nerd Glasses
@@ -8464,7 +8464,7 @@ id, type, attributes
 8462, Male 3, Bandana / Pipe / Eye Patch
 8463, Skeleton, Muttonchops / Earring / Bandana
 8464, Male 3, Normal Beard / Frumpy Hair
-8465, Female 3, Purple Lipstick / Pilot Helmet / Cigarette
+8465, Blue Female, Purple Lipstick / Pink Short / Cigarette
 8466, Male 1, Handlebars / Headband / Eye Patch
 8467, Female 1, Gold Chain / Tassle Hat
 8468, Male 3, Gold Chain / Earring / Mohawk Thin
@@ -8481,7 +8481,7 @@ id, type, attributes
 8479, Blue, Earring / Purple Hair / Nerd Glasses / Clown Nose
 8480, Green, Frumpy Hair / Cigarette / Eye Mask
 8481, Male 4, Headband / Cigarette / Laser Eyes Gold
-8482, Gold, Mohawk Thin
+8482, Purple, Purple Hair
 8483, Female 1, Purple Lipstick / Earring / Frumpy Hair / Green Eye Shadow
 8484, Male 3, Earring / Shaved Head / Regular Shades
 8485, Green Female, Black Lipstick / Tassle Hat / Vape / Purple Eye Shadow
@@ -8547,10 +8547,10 @@ id, type, attributes
 8545, Blue, Shadow Beard / Mohawk Thin / 3D Glasses
 8546, Bot, Top Hat
 8547, Male 3, Normal Beard Black / Frumpy Hair / Cigarette / Classic Shades
-8548, Green Female, Hot Lipstick / Bandana / Clown Eyes Blue
+8548, Blue Female, Hot Lipstick / Bandana / Clown Eyes Blue
 8549, Male 4, Muttonchops
 8550, Male 3, Shadow Beard / Purple Hair / 3D Glasses
-8551, Gold, Earring / Knitted Cap
+8551, Purple, Earring / Knitted Cap
 8552, Green Female, Black Lipstick / Pink With Hat / Blue Eye Shadow
 8553, Zombie, Front Beard Dark
 8554, Male 3, Gold Chain / Earring / Fedora
@@ -8565,7 +8565,7 @@ id, type, attributes
 8563, Green, Earring / Crazy Hair / Cigarette / Nerd Glasses
 8564, Male 1, Big Beard / Cap Forward
 8565, Female 1, Blonde Short / Clown Eyes Blue
-8566, Green Female, Wild Blonde / Vape
+8566, Purple Female, Wild Blonde / Vape
 8567, Demon, Earring / Frumpy Hair / Nerd Glasses
 8568, Male 1, Shadow Beard / VR
 8569, Green, Big Beard / Cap / Nerd Glasses
@@ -8661,7 +8661,7 @@ id, type, attributes
 8659, Male 3, Gold Chain / Shadow Beard / Stringy Hair
 8660, Green, Front Beard / Earring / Medical Mask
 8661, Male 1, Shadow Beard / Clown Hair Green / Horned Rim Glasses
-8662, Green Female, Mole / Bandana
+8662, Purple Female, Mole / Bandana
 8663, Female 1, Black Lipstick / Cap / Cigarette / Eye Patch
 8664, Blue, Luxurious Beard / Police Cap / Eye Mask
 8665, Female 1, Red Mohawk / Purple Eye Shadow
@@ -8718,11 +8718,11 @@ id, type, attributes
 8716, Male 3, Chinstrap / Headband / Medical Mask
 8717, Male 3, Normal Beard Black / Earring / Cap Forward / Horned Rim Glasses
 8718, Male 4, Earring / Wild Hair / Laser Eyes Gold
-8719, Green Female, Hot Lipstick / Earring / Tassle Hat / Blue Eye Shadow
+8719, Blue Female, Hot Lipstick / Earring / Messy Hair Blonde / Blue Eye Shadow
 8720, Male 3, Front Beard Dark / Top Hat / Classic Shades
 8721, Male 3, Stringy Hair / Pipe
 8722, Female 3, Black Lipstick / Cap
-8723, Green Female, Wild Blonde / Cigarette
+8723, Red Female, Wild Blonde / Cigarette
 8724, Male 3, Clown Hair Green / Nerd Glasses
 8725, Female 1, Purple Lipstick / Pink With Hat / Blue Eye Shadow
 8726, Female 1, Black Lipstick / Clown Hair Green / Vape
@@ -8764,7 +8764,7 @@ id, type, attributes
 8762, Male 3, Handlebars / Mohawk Thin / Vape
 8763, Female 1, Headband / Vape
 8764, Female 1, Straight Hair / Pipe / Green Eye Shadow
-8765, Green Female, Straight Hair Dark / Horned Rim Glasses
+8765, Purple Female, Straight Hair Dark / Horned Rim Glasses
 8766, Female 1, Blonde Bob / Pipe / Classic Shades
 8767, Female 3, Hot Lipstick / Earring / Wild White Hair / Horned Rim Glasses
 8768, Male 1, Luxurious Beard / Stringy Hair / VR
@@ -8781,7 +8781,7 @@ id, type, attributes
 8779, Female 4, Tiara / Clown Eyes Blue
 8780, Zombie, Shadow Beard / Frumpy Hair
 8781, Demon, Shadow Beard / Knitted Cap / Big Shades
-8782, Green Female, Tassle Hat / Classic Shades
+8782, Red Female, Half Shaved Purple / Classic Shades
 8783, Male 1, Goat / Peak Spike / Cigarette / Big Shades
 8784, Green, Chinstrap / Earring / Cap Forward / Classic Shades
 8785, Male 1, Luxurious Beard / Earring / Beanie
@@ -8800,7 +8800,7 @@ id, type, attributes
 8798, Male 1, Front Beard Dark / Messy Hair / Vape
 8799, Male 1, Goat / Hoodie
 8800, Female 4, Earring / Red Mohawk / Purple Eye Shadow
-8801, Gold, Top Hat
+8801, Red, Top Hat
 8802, Female 4, Mole / Earring / Blonde Bob / Clown Eyes Green
 8803, Bot, Chinstrap / Cowboy Hat
 8804, Female 1, Wild White Hair / Vape / Big Shades
@@ -8810,7 +8810,7 @@ id, type, attributes
 8808, Male 3, Normal Beard Black / Bandana / VR
 8809, Female 1, Rosy Cheeks / Stringy Hair
 8810, Female 1, Purple Lipstick / Mohawk Thin / Classic Shades
-8811, Green, Buck Teeth / Handlebars / Vampire Hair
+8811, Red, Buck Teeth / Handlebars / Vampire Hair
 8812, Demon, Earring / Shaved Head
 8813, Female 1, Hot Lipstick / Cap / Horned Rim Glasses
 8814, Female 3, Earring / Stringy Hair / Purple Eye Shadow
@@ -8828,14 +8828,14 @@ id, type, attributes
 8826, Green, Chinstrap / Mohawk Thin
 8827, Male 3, Earring / Wild Hair / Clown Nose
 8828, Green, Normal Beard / Hoodie / Clown Eyes Blue
-8829, Green Female, Mole / Red Mohawk
+8829, Purple Female, Mole / Red Mohawk
 8830, Demon, Goat / Messy Hair / Classic Shades
 8831, Green, Mustache / Headband / Pipe
 8832, Male 3, Muttonchops / Messy Hair / Big Shades
 8833, Male 3, Messy Hair / Big Shades
 8834, Male 1, Shadow Beard / Earring / Police Cap
 8835, Female 3, Cap / Green Eye Shadow
-8836, Green Female, Hot Lipstick / Straight Hair / Purple Eye Shadow
+8836, Red Female, Hot Lipstick / Straight Hair / Purple Eye Shadow
 8837, Green Female, Hot Lipstick / Headband / Purple Eye Shadow
 8838, Green, Mole / Knitted Cap / 3D Glasses
 8839, Male 4, Luxurious Beard / Shaved Head / Cigarette / Classic Shades
@@ -8892,7 +8892,7 @@ id, type, attributes
 8890, Female 3, Tassle Hat / Eye Patch
 8891, Female 1, Rosy Cheeks / Frumpy Hair
 8892, Male 3, Muttonchops / Do-rag / Laser Eyes Gold
-8893, Green Female, Hot Lipstick / Messy Hair / VR
+8893, Purple Female, Hot Lipstick / Messy Hair / VR
 8894, Male 3, Mole / Mohawk
 8895, Green Female, Hot Lipstick / Messy Hair / Clown Eyes Blue
 8896, Green Female, Hot Lipstick / Wild White Hair / Cigarette / Clown Eyes Green
@@ -8902,7 +8902,7 @@ id, type, attributes
 8900, Male 3, Buck Teeth / Cap Forward
 8901, Green, Handlebars / Earring / Mohawk Dark
 8902, Green, Normal Beard / Laser Eyes Gold
-8903, Green Female, Hot Lipstick / Earring / Bandana
+8903, Blue Female, Hot Lipstick / Earring / Bandana
 8904, Female 3, Cap / Pipe / Purple Eye Shadow / Clown Nose
 8905, Green Female, Mole / Wild Hair / Clown Eyes Blue
 8906, Green Female, Hot Lipstick / Stringy Hair / Laser Eyes Gold
@@ -8927,7 +8927,7 @@ id, type, attributes
 8925, Gold, Do-rag / Cigarette / Horned Rim Glasses
 8926, Gold, Bandana / Classic Shades
 8927, Male 3, Silver Chain / Bandana
-8928, Green Female, Hot Lipstick / VR
+8928, Blue Female, Hot Lipstick / VR
 8929, Green, Mole / Normal Beard Black / Earring / Do-rag / Big Shades
 8930, Male 3, Earring / Crazy Hair / Laser Eyes Gold
 8931, Green, Shadow Beard / Do-rag / Vape / Laser Eyes Gold
@@ -8961,7 +8961,7 @@ id, type, attributes
 8959, Female 1, Earring / Knitted Cap / Green Eye Shadow
 8960, Green, Handlebars / Mohawk Dark / Nerd Glasses
 8961, Female 4, Mohawk Dark / Blue Eye Shadow
-8962, Female 3, Tassle Hat / Nerd Glasses
+8962, Red Female, Blonde Side / Nerd Glasses
 8963, Green, Handlebars / Shaved Head / Cigarette / Clown Eyes Green
 8964, Green Female, Half Shaved / Big Shades
 8965, Green, Luxurious Beard / Earring / Knitted Cap / Big Shades
@@ -8972,11 +8972,11 @@ id, type, attributes
 8970, Male 1, Muttonchops / Mohawk Dark
 8971, Male 1, Luxurious Beard / Earring / Mohawk Thin / Classic Shades
 8972, Green Female, Black Lipstick / Pigtails / Eye Mask
-8973, Green Female, Mole / Frumpy Hair
+8973, Blue Female, Mole / Frumpy Hair
 8974, Male 1, Hoodie / Cigarette / Clown Eyes Green
 8975, Green Female, Frumpy Hair / Laser Eyes Gold
-8976, Green Female, Dark Hair / Classic Shades
-8977, Green Female, Hot Lipstick / Earring / Crazy Hair / Cigarette
+8976, Blue Female, Dark Hair / Classic Shades
+8977, Blue Female, Hot Lipstick / Earring / Crazy Hair / Cigarette
 8978, Male 3, Chinstrap / Purple Hair / Horned Rim Glasses
 8979, Male 4, Normal Beard / Shaved Head
 8980, Female 3, Hot Lipstick / Mole / Dark Hair / Blue Eye Shadow
@@ -9147,7 +9147,7 @@ id, type, attributes
 9145, Female 3, Rosy Cheeks
 9146, Male 3, Front Beard Dark / Stringy Hair / Eye Patch
 9147, Female 1, Hot Lipstick / Mole / Blonde Bob / Horned Rim Glasses
-9148, Green Female, Mohawk Dark / Medical Mask
+9148, Red Female, Mohawk Dark / Medical Mask
 9149, Green Female, Wild White Hair / Cigarette / Purple Eye Shadow
 9150, Male 1, Big Beard / Crazy Hair
 9151, Female 1, Black Lipstick / Orange Side
@@ -9176,7 +9176,7 @@ id, type, attributes
 9174, Male 4, Front Beard Dark / Stringy Hair
 9175, Male 1, Goat / Clown Hair Green / Vape
 9176, Green, Front Beard Dark / Crazy Hair
-9177, Green Female, Hot Lipstick / Half Shaved / Purple Eye Shadow
+9177, Purple Female, Hot Lipstick / Half Shaved / Purple Eye Shadow
 9178, Green, Front Beard / Earring / Cigarette / Nerd Glasses
 9179, Green, Normal Beard Black / Mohawk / Cigarette
 9180, Green, Luxurious Beard / Earring / Bandana / Big Shades
@@ -9252,7 +9252,7 @@ id, type, attributes
 9250, Green, Handlebars / Earring / Messy Hair / Classic Shades
 9251, Green, Stringy Hair / Medical Mask / Nerd Glasses
 9252, Male 3, Wild Hair / Vape / Regular Shades
-9253, Female 3, Hot Lipstick / Earring / Tassle Hat
+9253, Red Female, Hot Lipstick / Earring / Half Shaved Purple
 9254, Male 3, Shadow Beard / Clown Hair Green / Eye Patch
 9255, Male 3, Normal Beard Black / Mohawk Dark
 9256, Male 3, Mustache / Mohawk Thin / 3D Glasses
@@ -9299,10 +9299,10 @@ id, type, attributes
 9297, Blue, Handlebars / Crazy Hair / VR
 9298, Male 4, Vampire Hair / Cigarette / Big Shades
 9299, Male 4, Handlebars / Cap Forward
-9300, Gold, Cap Forward
+9300, Purple, Cap Forward
 9301, Female 1, Black Lipstick / Straight Hair Dark / Purple Eye Shadow
 9302, Green, Front Beard Dark / Frumpy Hair / Cigarette / Nerd Glasses
-9303, Green Female, Mohawk Dark / Clown Eyes Blue
+9303, Purple Female, Mohawk Dark / Clown Eyes Blue
 9304, Female 1, Mole / Earring / Messy Hair
 9305, Male 3, Mole / Front Beard Dark / Mohawk Dark / Cigarette
 9306, Male 1, Cap Forward / Classic Shades
@@ -9316,7 +9316,7 @@ id, type, attributes
 9314, Skeleton, Beanie
 9315, Green, Mustache / Crazy Hair / Classic Shades
 9316, Gold, Chinstrap / Earring / Crazy Hair / Big Shades
-9317, Green Female, Hot Lipstick / Orange Side
+9317, Red Female, Hot Lipstick / Orange Side
 9318, Male 1, Mohawk Dark / Big Shades / Clown Nose
 9319, Green, Silver Chain / Bandana / Clown Eyes Blue
 9320, Female 4, Mole / Bandana
@@ -9357,7 +9357,7 @@ id, type, attributes
 9355, Demon, Luxurious Beard / Earring / Bandana
 9356, Male 3, Vampire Hair / Nerd Glasses
 9357, Orc, Chinstrap / Mohawk
-9358, Female 1, Earring / Tassle Hat / Blue Eye Shadow
+9358, Purple Female, Earring / Blonde Side / Blue Eye Shadow
 9359, Female 3, Purple Lipstick / Earring / Crazy Hair / Green Eye Shadow
 9360, Male 3, Luxurious Beard / Cowboy Hat
 9361, Green, Luxurious Beard / Bandana / Eye Mask
@@ -9394,7 +9394,7 @@ id, type, attributes
 9392, Female 3, Hot Lipstick / Tiara / Cigarette
 9393, Green, Earring / Hoodie / Clown Eyes Blue
 9394, Male 3, Peak Spike / 3D Glasses
-9395, Green Female, Hot Lipstick / Mole / Earring / Half Shaved
+9395, Blue Female, Hot Lipstick / Mole / Earring / Half Shaved
 9396, Female 3, Mohawk Dark / Vape / Blue Eye Shadow / Clown Nose
 9397, Female 3, Black Lipstick / Wild Blonde / Purple Eye Shadow
 9398, Male 4, Wild Hair / Cigarette / Regular Shades
@@ -9416,7 +9416,7 @@ id, type, attributes
 9414, Female 3, Earring / Headband / Cigarette / Nerd Glasses
 9415, Gold, Fedora / Horned Rim Glasses
 9416, Male 4, Goat / Earring / Fedora
-9417, Green Female, Purple Lipstick / Earring / Pilot Helmet
+9417, Red Female, Purple Lipstick / Earring / Blonde Side
 9418, Gold, Muttonchops / Crazy Hair
 9419, Female 1, Hot Lipstick / Straight Hair / Green Eye Shadow
 9420, Male 1, Fedora / Eye Mask
@@ -9455,11 +9455,11 @@ id, type, attributes
 9453, Male 4, Mustache / Cap / Cigarette
 9454, Female 3, Black Lipstick / Earring / Straight Hair Dark / Cigarette / 3D Glasses
 9455, Female 1, Clown Hair Green / Big Shades
-9456, Green Female, Hot Lipstick / Frumpy Hair / Nerd Glasses
+9456, Red Female, Hot Lipstick / Frumpy Hair / Nerd Glasses
 9457, Female 1, Mohawk / Laser Eyes Gold
 9458, Green, Muttonchops / Bandana / Laser Eyes Gold
 9459, Female 4, Blonde Short / Purple Eye Shadow
-9460, Green Female, Hot Lipstick / Earring / Pigtails
+9460, Blue Female, Hot Lipstick / Earring / Pigtails
 9461, Female 1, Straight Hair Blonde / Laser Eyes Gold
 9462, Green, Mustache / Peak Spike / Regular Shades
 9463, Male 3, Normal Beard / Earring / Crazy Hair
@@ -9490,7 +9490,7 @@ id, type, attributes
 9488, Male 1, Chinstrap / Vampire Hair / Regular Shades
 9489, Green Female, Messy Hair / Vape / Clown Eyes Green
 9490, Female 1, Hot Lipstick / Mohawk Thin / Green Eye Shadow
-9491, Female 4, Earring / Tassle Hat
+9491, Blue Female, Earring / Messy Hair Green
 9492, Female 3, Purple Lipstick / Mohawk Thin / Pipe / Blue Eye Shadow
 9493, Green Female, Purple Lipstick / Wild Blonde / Purple Eye Shadow
 9494, Male 3, Shadow Beard / Shaved Head / VR
@@ -9530,7 +9530,7 @@ id, type, attributes
 9528, Male 3, Luxurious Beard / Stringy Hair / Cigarette
 9529, Female 1, Hot Lipstick / Bandana / VR
 9530, Green, Top Hat / Clown Nose
-9531, Green Female, Earring / Clown Hair Green
+9531, Red Female, Earring / Clown Hair Green
 9532, Female 1, Black Lipstick / Earring / Crazy Hair / Nerd Glasses
 9533, Blue, Front Beard / Bandana / Vape
 9534, Female 3, Purple Lipstick / Silver Chain / Half Shaved
@@ -9549,7 +9549,7 @@ id, type, attributes
 9547, Male 3, Rosy Cheeks / Normal Beard Black / Stringy Hair / Regular Shades
 9548, Green, Do-rag / Cigarette / Eye Mask
 9549, Female 4, Black Lipstick / Mole / Big Shades
-9550, Green Female, Hot Lipstick / Earring / Straight Hair Dark / Classic Shades
+9550, Red Female, Hot Lipstick / Earring / Straight Hair Dark / Classic Shades
 9551, Male 3, Crazy Hair / Cigarette
 9552, Male 4, Earring / Mohawk Thin / Nerd Glasses
 9553, Green, Shadow Beard / Shaved Head / Regular Shades
@@ -9562,7 +9562,7 @@ id, type, attributes
 9560, Green, Shadow Beard / Cap / Medical Mask / Classic Shades
 9561, Male 1, Big Beard / Headband / Eye Mask
 9562, Male 3, Muttonchops / Earring / Crazy Hair / Nerd Glasses
-9563, Green Female, Crazy Hair / Laser Eyes Gold
+9563, Red Female, Crazy Hair / Laser Eyes Gold
 9564, Male 1, Front Beard Dark / Earring / Frumpy Hair / Horned Rim Glasses
 9565, Male 3, Rosy Cheeks / Bandana / VR
 9566, Female 3, Hot Lipstick / Blonde Bob / Classic Shades
@@ -9591,7 +9591,7 @@ id, type, attributes
 9589, Green, Muttonchops / Earring / Headband / Laser Eyes Gold
 9590, Green Female, Black Lipstick / Tassle Hat / Green Eye Shadow
 9591, Bot, Crazy Hair / Laser Eyes Gold
-9592, Green Female, Hot Lipstick / Blue Eye Shadow
+9592, Blue Female, Hot Lipstick / Blue Eye Shadow
 9593, Green Female, Wild Blonde / Horned Rim Glasses
 9594, Male 1, Spots / Big Beard / Stringy Hair / Regular Shades
 9595, Green Female, Purple Lipstick / Messy Hair / Clown Eyes Blue
@@ -9652,7 +9652,7 @@ id, type, attributes
 9650, Green Female, Hot Lipstick / Wild Blonde / 3D Glasses
 9651, Male 3, Mole / Silver Chain / Mohawk Thin / Eye Patch
 9652, Female 3, Purple Lipstick / Mohawk Dark / 3D Glasses
-9653, Gold, Messy Hair / Classic Shades
+9653, Aqua, Messy Hair / Classic Shades
 9654, Green, Buck Teeth / Crazy Hair
 9655, Green, Chinstrap / Vampire Hair / Laser Eyes Gold
 9656, Male 1, Mole / Earring / Frumpy Hair
@@ -9763,7 +9763,7 @@ id, type, attributes
 9761, Male 3, Normal Beard / Purple Hair
 9762, Male 1, Normal Beard Black / Messy Hair / VR
 9763, Green Female, Earring / Knitted Cap / Classic Shades
-9764, Male 1, Buck Teeth / Front Beard Dark / Mohawk Dark
+9764, Purple, Buck Teeth / Front Beard Dark / Mohawk Dark
 9765, Blue, Muttonchops / Earring / Peak Spike
 9766, Male 3, Shadow Beard / Wild Hair / Big Shades
 9767, Gold, Chinstrap / Messy Hair
@@ -9867,7 +9867,7 @@ id, type, attributes
 9865, Blue, Luxurious Beard / Vampire Hair / Classic Shades
 9866, Female 1, Hot Lipstick / Straight Hair / Clown Eyes Blue
 9867, Female 1, Gold Chain / Mohawk Dark
-9868, Green Female, Hot Lipstick / Earring / Mohawk Dark
+9868, Purple Female, Hot Lipstick / Earring / Mohawk Dark
 9869, Female 4, Mole / Wild White Hair / Green Eye Shadow
 9870, Male 1, Earring / Cowboy Hat / Horned Rim Glasses
 9871, Green Female, Hot Lipstick / Earring
@@ -9925,7 +9925,7 @@ id, type, attributes
 9923, Female 3, Hot Lipstick / Earring / Cap / Clown Eyes Green
 9924, Female 3, Hot Lipstick / Mole / Mohawk Dark
 9925, Female 3, Purple Lipstick / Earring / Wild Blonde / Cigarette / Blue Eye Shadow
-9926, Green Female, Hot Lipstick / Tiara
+9926, Blue Female, Hot Lipstick / Tiara
 9927, Green Female, Black Lipstick / Half Shaved / Clown Eyes Green
 9928, Female 1, Clown Hair Green / Cigarette
 9929, Green, Shadow Beard / Earring / Peak Spike
@@ -9936,7 +9936,7 @@ id, type, attributes
 9934, Female 3, Purple Lipstick / Pink With Hat / Blue Eye Shadow
 9935, Green, Mustache / Fedora / Eye Patch
 9936, Gold, Headband / Regular Shades
-9937, Green Female, Hot Lipstick / Wild Hair / Laser Eyes Gold
+9937, Red Female, Hot Lipstick / Wild Hair / Laser Eyes Gold
 9938, Green Female, Spots / Headband
 9939, Male 3, Earring / Cap / Nerd Glasses
 9940, Female 3, Purple Lipstick / Mohawk / Blue Eye Shadow
@@ -9965,7 +9965,7 @@ id, type, attributes
 9963, Male 4, Chinstrap / Earring / Purple Hair / VR
 9964, Green Female, Purple Lipstick / Earring / Bandana / Clown Eyes Blue
 9965, Male 4, Earring / Hoodie / Nerd Glasses
-9966, Green Female, Hot Lipstick / Earring / Wild Hair / Eye Patch
+9966, Red Female, Hot Lipstick / Earring / Wild Hair / Eye Patch
 9967, Female 3, Knitted Cap / Green Eye Shadow
 9968, Male 3, Big Beard / Vampire Hair / Big Shades
 9969, Male 3, Peak Spike / VR
@@ -9991,7 +9991,7 @@ id, type, attributes
 9989, Female 1, Hot Lipstick / Pilot Helmet / Cigarette
 9990, Male 4, Mohawk / Horned Rim Glasses
 9991, Male 3, Muttonchops / Earring / Beanie / Regular Shades
-9992, Gold, Chinstrap / Bandana
+9992, Red, Chinstrap / Bandana
 9993, Male 1, Shadow Beard / Cap / Nerd Glasses
 9994, Female 1, Blonde Short / Green Eye Shadow
 9995, Female 4, Straight Hair Dark / Purple Eye Shadow
