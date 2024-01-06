@@ -32,15 +32,11 @@ def generate_punk( *values  )
 
   # change smile  to gold
   # change frown  to demon or skeleton or bot or orc
-  if attribute_names.include?( 'Smile' )
-     punk_type = 'Gold'
-  end  
-  
+  punk_type = 'Gold'  if attribute_names.include?( 'Smile' )
+    
   specials = ['Demon', 'Skeleton', 'Bot', 'Orc']
-
-  if attribute_names.include?( 'Frown' )
-    punk_type = specials[ rand( specials.size ) ]
-  end  
+  punk_type = specials[ rand( specials.size ) ]  if attribute_names.include?( 'Frown' )
+    
 
   ### more fun
   ##   turn every 10th male1 into blue
