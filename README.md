@@ -15,7 +15,7 @@ Looking for the Bitscoin Edition?  See [Punks 12px @ orc721 »](https://github.c
 ### Mint 
 
 
-Find all ethscriptions mints in [mint.csv](mint.csv) tabular dataset e.g.
+Find all ethscriptions mints in the [mint.csv](mint.csv) tabular dataset e.g.
 
 ```
 num, ref
