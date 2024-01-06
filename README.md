@@ -10,9 +10,37 @@ Looking for the Bitscoin Edition?  See [Punks 12px @ orc721 »](https://github.c
 
 
 
+---
+
+### Mint 
 
 
-## Intro
+Find all ethscriptions mints in [mint.csv](mint.csv) tabular dataset e.g.
+
+```
+num, ref
+4040227, 281
+4040302, 8857
+4040308, 9280
+4040329, 5822
+4040330, 2924
+4040331, 4464
+4040345, 3100
+4040346, 4156
+...
+```
+
+---
+
+### Marketplace
+
+  - SOON!
+  
+---
+
+
+
+## More about Punks 12px
 
 Let's generate 10000 punks (12×12px) in a reference edition.
 
