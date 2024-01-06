@@ -79,12 +79,27 @@ id, type, attributes
 
 
 
+### Popularity & Rarity by Attribute Count
+
+
+| Count        | Pop             |
+|--------------|----------------:|
+| 0            |   12  ( 0.12 %) |
+| 1            |  429  ( 4.29 %) |
+| 2            | 3672  (36.72 %) |
+| 3            | 4429  (44.29 %) |
+| 4            | 1320  (13.20 %) |
+| 5            |  129  ( 1.29 %) |
+| 6            |    8  ( 0.08 %) |
+| 7            |    1  ( 0.01 %) |
+
+
+
 ### Bonus - All together now
 
 Find the composite fam image of all 10000 in a 100×100 grid in [punks12px.png](punks12px.png) (~360k - 1200×1200px).
 
 ![](punks12px.png)
-
 
 
 

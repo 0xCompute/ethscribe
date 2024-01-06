@@ -26,9 +26,47 @@ counter.each do |name,count|
   puts '%-12s | %4d  (%5.2f %%)' % [name, count, percent]
 end
 
+
+
+## by attributes count
+
+counter = Hash.new(0)
+recs.each do |rec|
+  attributes = rec['attributes'].split( '/')
+  counter[ attributes.size ] += 1
+end
+
+pp counter.size
+#=> 8
+pp counter
+#=> {3=>4429, 1=>429, 4=>1320, 2=>3672, 5=>129, 0=>12, 6=>8, 7=>1}
+
+
+counter = counter.sort { |l,r| l[0]<=>r[0] }
+
+## pretty print
+counter.each do |rec|
+  name    = rec[0]
+  count   = rec[1]
+  percent =  Float(count*100)/Float(recs.size)
+
+  puts '| %-12s | %4d  (%5.2f %%) |' % [name, count, percent]
+end
+
+
+
 puts "bye"
 
 __END__
+
+| 0            |   12  ( 0.12 %) |
+| 1            |  429  ( 4.29 %) |
+| 2            | 3672  (36.72 %) |
+| 3            | 4429  (44.29 %) |
+| 4            | 1320  (13.20 %) |
+| 5            |  129  ( 1.29 %) |
+| 6            |    8  ( 0.08 %) |
+| 7            |    1  ( 0.01 %) |
 
 
 Alien        |    9  ( 0.09 %)
