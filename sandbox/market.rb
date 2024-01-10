@@ -37,9 +37,15 @@ collection_items = []
        item_attributes <<  { 'trait_type' => 'attribute count',
                              'value' => attributes.size.to_s }  ## number (type) possible?
    
+
+      # for debate - what name to use?
+      #   plain ->   Punk #0
+      #  or          Punk 12px #0   or 
+      #              Punk #0 (Punks 12px, Vol. 1 - Cassics)
+
        collection_items << {
                   'ethscription_id' => data['ethscription']['transaction_hash'],
-                  'name' => "Punk \##{i}",
+                  'name' => "Punk 12px \##{i}",
                   'description' => '',
                   'external_url' => '',
                   'background_color' => '',
