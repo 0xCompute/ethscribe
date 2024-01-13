@@ -34,8 +34,12 @@ num, ref
 
 ### Marketplace
 
-  - SOON!
-  
+  - <https://ordex.io/collection/eth/punks12px>
+
+![](i/punks12px-market.png)
+
+
+
 ---
 
 
