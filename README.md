@@ -2,7 +2,7 @@
 Looking for the Bitscoin Edition?  See [Punks 12px @ orc721 »](https://github.com/orc721/punks12px) 
 
 
-# Punks 12px, The Ethscribe Edition  -  Self inscribing, First is first
+# Punks 12px, The Ethscribe Editions, Vol. 1 - The Classics (Max. 10000) -  Self inscribing, First is first
 
 10000 unique punks, colorful 12x12 pixel art. Long ethscribes, Long punks!
 
