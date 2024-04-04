@@ -4,8 +4,8 @@ scribelite - inscription / inscribe (ethscription calldata) database for ethereu
 
 
 
-* home  :: [github.com/s6ruby/rubidity](https://github.com/s6ruby/rubidity)
-* bugs  :: [github.com/s6ruby/rubidity/issues](https://github.com/s6ruby/rubidity/issues)
+* home  :: [github.com/0xCompute/ethscribe](https://github.com/0xCompute/ethscribe)
+* bugs  :: [github.com/0xCompute/ethscribe/issues](https://github.com/0xCompute/ethscribe/issues)
 * gem   :: [rubygems.org/gems/scribelite](https://rubygems.org/gems/scribelite)
 * rdoc  :: [rubydoc.info/gems/scribelite](http://rubydoc.info/gems/scribelite)
 

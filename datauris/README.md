@@ -2,8 +2,8 @@
 
 datauris - helpers to parse (decode) and build (encode) data uris incl. (strict) base64-encoded/decoded images and more
 
-* home  :: [github.com/s6ruby/rubidity](https://github.com/s6ruby/rubidity)
-* bugs  :: [github.com/s6ruby/rubidity/issues](https://github.com/s6ruby/rubidity/issues)
+* home  :: [github.com/0xCompute/ethscribe](https://github.com/0xCompute/ethscribe)
+* bugs  :: [github.com/0xCompute/ethscribe/issues](https://github.com/0xCompute/ethscribe/issues)
 * gem   :: [rubygems.org/gems/datauris](https://rubygems.org/gems/datauris)
 * rdoc  :: [rubydoc.info/gems/datauris](http://rubydoc.info/gems/datauris)
 

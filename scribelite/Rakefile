@@ -8,7 +8,7 @@ Hoe.spec 'scribelite' do
   self.summary = "scribelite gem - inscription / inscribe (ethscription calldata) database for ethereum & co; let's you query via sql and more"
   self.description = summary
 
-  self.urls    = { home: 'https://github.com/s6ruby/rubidity' }
+  self.urls    = { home: 'https://github.com/0xCompute/ethscribe' }
 
   self.author  = 'Gerald Bauer'
   self.email   = 'gerald.bauer@gmail.com'

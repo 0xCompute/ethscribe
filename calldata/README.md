@@ -3,8 +3,8 @@
 calldata - Calldata.encode / Calldata.decode using utf8_to_hex and hex_to_utf8 helpers and more for inscriptions / inscribes for ethereum & co
 
 
-* home  :: [github.com/s6ruby/rubidity](https://github.com/s6ruby/rubidity)
-* bugs  :: [github.com/s6ruby/rubidity/issues](https://github.com/s6ruby/rubidity/issues)
+* home  :: [github.com/0xCompute/ethscribe](https://github.com/0xCompute/ethscribe)
+* bugs  :: [github.com/0xCompute/ethscribe/issues](https://github.com/0xCompute/ethscribe/issues)
 * gem   :: [rubygems.org/gems/calldata](https://rubygems.org/gems/calldata)
 * rdoc  :: [rubydoc.info/gems/calldata](http://rubydoc.info/gems/calldata)
 

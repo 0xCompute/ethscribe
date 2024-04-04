@@ -8,7 +8,7 @@ Hoe.spec 'ethscribe' do
   self.summary = 'ethscribe - inscription / inscribe (ethscription calldata) api wrapper & helpers for Ethereum & co.'
   self.description = summary
 
-  self.urls    = { home: 'https://github.com/s6ruby/rubidity' }
+  self.urls    = { home: 'https://github.com/0xCompute/ethscribe' }
 
   self.author  = 'Gerald Bauer'
   self.email   = 'gerald.bauer@gmail.com'

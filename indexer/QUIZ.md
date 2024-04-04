@@ -9,7 +9,7 @@
 <summary markdown="1">Show / Hide Answers</summary>
 
 The first pdf inscription is no. 17123  (part of a collection / series 1 of 36).
-see <https://github.com/s6ruby/rubidity/blob/master/programming-ethscriptions/pdfs/17123.pdf>
+see <https://github.com/0xCompute/ethscribe/blob/master/programming-ethscriptions/pdfs/17123.pdf>
 
 The title is "Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform" and only one page ;-).
 
@@ -93,7 +93,7 @@ O.|.-O.O.|..O.O.-....|.-..O.|.-O-O.|.-..O.|....O.-.-..|.-.-O.|.-
 ```
 
 see for all 
-<https://github.com/s6ruby/rubidity/raw/master/programming-ethscriptions/sub100k.txt>
+<https://github.com/0xCompute/ethscribe/raw/master/programming-ethscriptions/sub100k.txt>
 
 now let's exclude all texts >1k (bytes) and for no. 2. & 3. gets you:
 
@@ -101,9 +101,9 @@ text inscribe (sub1k) no. 2 @ 11423 reads: `Hello, world!`
 
 text inscribe (sub1k) no. 3 @ 11460 reads: `gm`
 
-see for all <https://github.com/s6ruby/rubidity/raw/master/programming-ethscriptions/sub100k_sub1k.txt>
+see for all <https://github.com/0xCompute/ethscribe/raw/master/programming-ethscriptions/sub100k_sub1k.txt>
 
-and for reference the (anaylitics) script -> <https://github.com/s6ruby/rubidity/blob/master/programming-ethscriptions/sub100k_text.rb>
+and for reference the (anaylitics) script -> <https://github.com/0xCompute/ethscribe/blob/master/programming-ethscriptions/sub100k_text.rb>
 
 
 </details>

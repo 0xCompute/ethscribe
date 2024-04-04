@@ -8,7 +8,7 @@ Hoe.spec 'calldata' do
   self.summary = "calldata gem - Calldata.encode / Calldata.decode using utf8_to_hex and hex_to_utf8 helpers and more for inscriptions / inscribes for ethereum & co"
   self.description = summary
 
-  self.urls    = { home: 'https://github.com/s6ruby/rubidity' }
+  self.urls    = { home: 'https://github.com/0xCompute/ethscribe' }
 
   self.author  = 'Gerald Bauer'
   self.email   = 'gerald.bauer@gmail.com'
@@ -18,7 +18,7 @@ Hoe.spec 'calldata' do
   self.history_file = 'CHANGELOG.md'
 
   self.extra_deps = [
-    ['datauris', '>= 1.0.1'],
+    ['datauris', '>= 1.2.0'],
     ['cocos'],
   ]
 
