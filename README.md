@@ -20,7 +20,7 @@ Gems / libraries include:
 More:
 
 
-**[Programming Ethscriptions - Step-by-Step Book / Guide](programming-ethscriptons)**  incl.
+**[Programming Ethscriptions - Step-by-Step Book / Guide](programming-ethscriptions)**  incl.
 
 - Sub 1k - Inside The First Thousand Ethscriptions
 
